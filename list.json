@@ -326,10 +326,15 @@
       {
     "name": "⚽EVENTOS MLS Y STAR" ,
     "samples": [
-     {
-        "name": "EVENTOS MLS",
-        "uri": "tKbvwwIBc9uZX1PhXl8WPN8U6ZVPPyHRTJZDin7Hb3BW1CeN6KGI2F4kLMXgRV9W",
-         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1938px-MLS_crest_logo_RGB_gradient.svg.png"
+{
+        "name": "EVENTO 1",
+        "uri": "u/bkXnwMy7dlfSlqwrz6rSbELXffHv1WrvkfLmQkq5mmwUO29mFkiIk/4mGonHVAQSuo0XtF/bOTB8QT9cGryw==",
+        "icono": "https://www.prensa-latina.cu/wp-content/uploads/2023/07/messi-inter-miami.jpg"
+      },
+      {
+        "name": "EVENTO 2",
+        "uri": "isR64LXRL+wmr3Aeu1mVCmLWxWXmFmDN2HUWDasOgwTslnVBgDCUC3VUhfI+IgY9N1IRjIPbK1Yl56YOqApoXw==",
+        "icono": "https://www.prensa-latina.cu/wp-content/uploads/2023/07/messi-inter-miami.jpg"
       },
        {
         "name": "EVENTOS STAR 1",
@@ -339,9 +344,9 @@
       },
        {
         "name": "EVENTOS STAR 2",
-        "uri": "ab2P4Mg9NwQzD1u8vnTiPMnfERsA72lJz8PnyvIc1jVS94qZh/1GVJrLnoo2WagYmt1v45blMu7eef3Kn5paAhr5gUjzU9VAxNJObHy/2uk=",
+        "uri": "afoEnDpZLTUNe6jFOxfwn3zSiZDiSxjI5QgoAn/CB99X+HZNAI6pHPwvRTpxnnbRzAPm8p4ECZmMcasznR0YIlhZa3oiiOD+5PVd1q/L0Y5ewQI9hPvB9RhyYThoSa+xCHWUjkaZujyvZghafccTmf0AQznxK66vpoTNCmexshBbAw67ow18IwsONTutEsId",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHE1UQjIiQW1aueGDhK45AWA0VZl2EkUOR3WpyW8AxqmGr/AJsD1rKIjYzTDLEf8U8eRVUx111BOKVBpQrXTt4CFnmTklE9BCW1cyKuAGtrEzJE0pCbYfa6BggumbNRN++w==",
+        "drm_license_uri": "t+DgnUguJFubuNf5+yhRP5UhQ0VFp2WliN7NgdyCbgmS2SVhbUBUIaMg6CH7MtkS",
         "icono": "http://imgfz.com/i/z1wOX9T.png"
       }
     ]
