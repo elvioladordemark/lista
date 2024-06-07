@@ -761,7 +761,7 @@
         "name": "PASIONES",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3rH8aHdzu2scSQTFN7F3rgX0BjQ1u8KEFfwvoUTT/q0hvyRd0tWziGdkLhaPilXzi+pe7CJkPcqm/XGp3dS5bEg",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDLsyyUbu0H4FW1w7zvjLVQWHHEi0nlRFyCKMftED0ZR18oggyq1Lc6E00x14ndZ18Y33X9WOcdtS6zbCyAQXRhQ96wbwKhwOG8LiR6HB/hlprsTxVGRjgP7zsFFXi+RyoQ==",
+        "drm_license_uri": "t+DgnUguJFubuNf5+yhRP20jMmr7voBp4RhKQx3pLL/g+BPWpu2LUh8BwaMJfrwp",
         "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
       },
 
@@ -784,13 +784,6 @@
         "name": "NOVELAS",
         "uri": "47DACNCYsaOJQIy/y0GYLyGfj2hQ8OX73lfxmf25vORTr6LHcICHnJxmVK1V3EEK3UdnyRMFW3tNjQgfwIMxNQ==",
         "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
-      },
-      {
-        "name": "CANAL DE LAS ESTRELLAS",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oMR807bzhhS6h/zMcOTjGzqILr07v+4CtWBERfluu4VtirnoNNzeui9lOv5fwDMg2p9oNCNE84q6MQBcE35BQqVYGlRLgEmCzZM4xdAvtZq35fG4liUoE0uUsR0R82XXY=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDCr3qSNBjpy1bCxAEXjjVXmjwT4T7Kj7juk2co8Y1vvVyUN+XTlnwGBCJFUkeCLMytvHzNi4GHBzsgxrMQiTgMDyyd8+c7j2tnJh/cY+doUOZPc5Z4rmP5RAEycCpecB86ewpdARTiC4qpNFVsEM+Us=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
       }
     ]
   },
