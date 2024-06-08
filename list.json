@@ -34,7 +34,23 @@
             }
        ]
   },
+{
+    "name": "⚽AMISTOSOS COPA AMERICA",
+    "samples": [
 
+       {
+      "name": "RCN",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaGjSGAfK+Z7aZcbQs4NWJK0Af0a1QC0MYniOSLNznCWA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png"
+      },
+      
+      {
+                "name": "GOL CARACOL",
+                "uri": "q/WyuVQPZRL/PX9J5hZj/DKyLfJJox5aw4nUPtARSlBW3mzFWvMRKj/kI9ASYC9ilbC5SCvEt69KhFIe947C3Q==",
+          "icono": "https://caracoltv.brightspotcdn.com/dims4/default/7f6b6c4/2147483647/strip/true/crop/970x509+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fcaracoltv%2Fcaracolgol_970.jpg"
+            }
+       ]
+  },
       {
     "name": "⚽DEPORTES ESPN",
     "samples": [
