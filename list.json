@@ -204,7 +204,7 @@
   },
 
       {
-    "name": "TYC Y TNT SPORTS",
+    "name": "⚽TYC Y TNT SPORTS",
     "samples": [
        {
         "name": "TYC SPORTS",
@@ -313,7 +313,7 @@
   },
 
       {
-    "name": "⚽DEPRTES BRASIL",
+    "name": "⚽DEPORTES BRASIL",
     "samples": [
      {
         "name": "COMBATE BR",
@@ -876,6 +876,69 @@
       }
     ]
   },
+	   {
+    "name": "🎥PACK RUNTIME PREMIUN",
+    "samples": [
+
+
+       {
+        "name": "RUNTIME LATINO",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9zrhNUDgj3vpoYxaRs5IJoQ==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+       {
+        "name": "RUNTIME FILMS",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9gLxVUBR3FweN1A4MuRPT6g==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME ESPAÑOL",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9kbLGXBKPhCqC9S2hEKMxVg==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME CINE Y SERIES",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9YJwtD+e7C2MpCN/wrMZakA==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME FAMILIA",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9bDXAOKulbLa2NVD8kiT7AA==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME TERROR",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI92N4Zqrn1Kh3U5M4LC5FpFg==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME ROMANCE",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9OtoPmWHYhBd+O4U5OKEITg==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME CRIMEN",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9arF8BgnsjS9SBFiGf7K+PQ==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME COMEDIA",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9NBSGDtC6boO2IKEDjkH/Yw==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME ACCION",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI91tTK354cehMzYkFLfMqyQQ==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      },
+	           {
+        "name": "RUNTIME BRASIL",
+        "uri": "Qk26khJskAPuOwmwG6r/EpXWXwZybNFlj0UdX15jwA0apkIiB8Ez+/Q62kbvXMI9gLxVUBR3FweN1A4MuRPT6g==",
+        "icono": "https://play-lh.googleusercontent.com/G6HQDb9QkGogSMe4ZBm1Eed3t7lpTTTkoan_tZUVviICs8ydzlXYXuvdrYDCEfM2r60"
+      }
+    ]
+    },
+
 	{
     "name": "📺PLUTO TV",
     "samples": [
