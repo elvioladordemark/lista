@@ -34,6 +34,21 @@
             }
        ]
   },
+	
+ 
+{
+    "name": "EVENTOS TELECINCO",
+    "samples": [
+
+       {
+      "name": "TELECINCO CHANNEL",
+        "uri": "q/WyuVQPZRL/PX9J5hZj/DKyLfJJox5aw4nUPtARSlAxYrBw42VX6cdM4K9ruOFOVHL5sjaihXQZ766mj3AyZQ==",
+        "icono": "https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg"
+      }
+      
+  
+       ]
+  },
 {
     "name": "⚽AMISTOSOS COPA AMERICA",
     "samples": [
