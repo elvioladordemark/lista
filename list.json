@@ -476,16 +476,20 @@
     "name": "🎥CANALES DE PELICULAS Y SERIES",
     "samples": [      
       {
-        "name": "GOLDEN",
-        "uri": "hWGaeX7gJIJWHvqQJhTuaAI7dzF0cAtwVDmTMLGuixpzleO4bU0tir20XnALYGRJ",
-        "icono": "https://i.ibb.co/SQXYfcb/19d8ad2b2b4e8ec851d2bcbf42691efe.png"
+        "name": "GOLDEN PLUS",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaEpg7znSucLQ6QgyF8e7Up0Af0a1QC0MYniOSLNznCWA==",
+        "icono": "https://i.postimg.cc/fypSrWbN/descarga-1.png"
       },
       {
-        "name": "GOLDEN PLUS",
-        "uri": "m3DuvMAqys31qPZD2rftBeMnRUrMhBtSS3Q7tJQXIEeXfo+POEfbX66ZWRAr4UsGgP1puKfBrhFBuIBezRyUk50fbXBuVW09fND2CJZPTgE=",
-        "icono": "https://i.ibb.co/0QygQDg/goldenplus.jpg"
+        "name": "GOLDEN PREMIER",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLYnLVASWSGyCKlLYije+y8o0Af0a1QC0MYniOSLNznCWA==",
+        "icono": "https://i.postimg.cc/ZqnvPDZ3/descarga-3.jpg"
       },
-   
+      {
+        "name": "GOLDEN EDGE",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLZ5Zmg1cDHZE8wb14/rQq/E0Af0a1QC0MYniOSLNznCWA==",
+        "icono": "https://i.postimg.cc/NMw9hGm8/descarga-2.png"
+      },
       {
         "name": "WARNER CHANNEL",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3qnO4fxeQOzgJ58/Le/3Vu2I7E6duFV3qaC0neI3XXb+yBV62/6F9AwW4awz53Ks4lX3mu4+HlQyKt9U8ST8GlZ",
