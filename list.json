@@ -6,7 +6,7 @@
 
        {
       "name": "TIGO SPORTS 1 EN VIVO",
-        "uri": "t+DgnUguJFubuNf5+yhRP9yfsQiUo7YI704kMYKqdFvQB/RrVALQxieI5Is3OcJY",
+        "uri": "aSiJGMUHYxGTVywIqN/lsaQB5XVeUjnxYIQzRcRmrKYg6wel4iq1y0mqLa5lrUNZ4PGiiC0VvGhQ/MeV0zvMt6qbcoDF6G3x91LtSNHViZ6DLcb2//LDJQuG+SPgbsrgmX+6FgV8t9bloA2nlhonNXmqwYw31U4dvUv6aCNXkxrd6E2uu4DfGiJ7ZD3DOQxitksNIy6DKs1GsPat94ILENZ6GbQt5abnyjUW37YFyLMPv4Pp7i9iB8AV1ThhbMyB",
         "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
       },
          {
@@ -14,7 +14,12 @@
         "uri": "t+DgnUguJFubuNf5+yhRPwgeQO63C5aNMGdvOY7f3pLQB/RrVALQxieI5Is3OcJY",
         "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
       },
-      {
+         {
+      "name": "TIGO SPORTS 3 EN VIVO",
+        "uri": "D9nD8gyN46y5fk1/BxoEijge1PZenqy0z/Gm1kWAVPKFGSwYE/G1gniqvO76RwatJXpgCp7FPoWf8lEL/1eXhM/e6agipkp9nptSMCFPMw1iN3xCgOTA6BL56WFevizT131UF+g2wjaGX4NWGXIqmhtmzU1qDISzf5PwHH/zUT1e3ijtd/csRZV3E5vLZW3OXBZNpdTaQBYBNz9gieloDXOAAMM/s86benUFtkUm1gSu/aCf0PngNCDTFQ8w6P4qtj0VhoFjG61dLDlAvv98BA==",
+        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
+      },
+	    {
                 "name": "TIGO SPORTS SOLO EVENTOS 1",
                 "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
                 "drm_scheme": "clearkey",
