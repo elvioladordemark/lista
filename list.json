@@ -1327,6 +1327,53 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHBsCUHbaAodiTerzrOtVGRb0kHLVAFh8wmXc+hxu7/DuNLREhkBqdWgCnjbOlNDmObf0v4Gkn0YN4SbtJne+Lo7tBPlVb9RrSrptfGXbFxDixcrcCyl27d7MosIqKnjgpA==",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
          }
+     ]
+  },
+ {
+    "name": "CANELES DE CINES CLASICOS",
+    "samples": [
+      {
+        "name": "MTV HITS",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pXNvz67VsuLN3zoqgNvKxUvbK12T7JCTBp1wsZzB+5m43hfQXj78RTlXfjW5mT0G+pe7CJkPcqm/XGp3dS5bEg",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHB/OxNZy0a8IGFLfzyrxdzKGSWQ6V6kWG6mS7rV3pCGRGotZfaEfhuUC1F1++0y3d71anT3eQw0qxl0ItSVGq7j32n5k1xXJBYyCL7slS5gR1dLWEyahYMeMMSbAEqo9RA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/2560px-MTV_Logo_2010.svg.png"
+      },
+      {
+        "name": "ESENCIALES VORTERIX",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3rr/Oy+MTvmZEYd75dK7B98g36OLTVMENNzQQyWy3qNeHnEN8c6ZJfteO++27jgVpPzO1e43wx1s+5Zk/0KF0WF",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHJYedp5tUnqrNPn1xogyxXZIf9W/UwekU/hbCFcsbMM+HxIeEPVNNufjT7nEEdlQSXtxssaEKEen2pAjGSy4iCTKCemRX5k2uSQJyYp+bKZvnRPBceqDTKDngMEO3I2gzw==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg"
+      },
+      {
+        "name": "EN ALTA",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pV6rdNY8KD6Ij2IjRoBFH/9CQxmwKp3J/Q1OqWwrtIZne+J6oqnWuORiH8iAKrW4jFCwt7LwNKS+tkzV01UREj",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHCrNsrSycGQzW1czNN2I89dpy/jEPDxrq+VUteB8h79v+r1SHP3owSg3tZJ/AdmGuadL09Tqx/oBFx9ikaVecBkfS2LzQitmFMvnnYenKQrfTNH3Lcb+HLlpF35C+N6pVQ==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuXpg2iXCKbblA1tSg8Grd0E4T-cfHFm9_Gat3S8&s"
+      },
+      {
+        "name": "CANAL DE MUSICA",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3rExiS9sBbX4JVocqDZyOWTkTp5xBVeBgRJB9t7IIwG62sTRECt/9mUfEzNLxMBOfE=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHMYJA2hpixoS9o7/eT3BoS9w/91tMXiQDijqaYLoqnaOFP6qgqWwE1KM6dJgJAlgMyqJABIiAFEMliCALEJWE+wK+NkPVYW0Xins0bE96Oh53Ww9yZVbUWY6ECA77lxKvg==",
+        "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png"
+      },
+      {
+        "name": "CM MUSIC",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3rExiS9sBbX4JVocqDZyOWTu329Pr6/fW7JyMbBoVahBYL90X0q51oOey1yL0Ulcb4=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHMYJA2hpixoS9o7/eT3BoS9w/91tMXiQDijqaYLoqnaOFP6qgqWwE1KM6dJgJAlgMyqJABIiAFEMliCALEJWE+wK+NkPVYW0Xins0bE96Oh53Ww9yZVbUWY6ECA77lxKvg==",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLQs2XoXN3loMr6UTK_y_DVpVtxWP9AxwAymBO2Hp9&s"
+      },
+      {
+        "name": "HTV",
+        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pYzw6zRwEizjVs0sOyrtmoKMoy6AAZ94jqTWgSKYlJUGZKM3KLAJ7HlMQqrqakKDc=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHBsCUHbaAodiTerzrOtVGRb0kHLVAFh8wmXc+hxu7/DuNLREhkBqdWgCnjbOlNDmObf0v4Gkn0YN4SbtJne+Lo7tBPlVb9RrSrptfGXbFxDixcrcCyl27d7MosIqKnjgpA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/1200px-Htv_logo.svg.png"
+         }
     ]
   },
  {
