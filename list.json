@@ -796,59 +796,7 @@
                 "icono": "https://ayuda.tigo.com.bo/hc/article_attachments/17871817726099"
                 
             }
-       ]
-    },
-{
-    "name": "📺CANALES DE NOVELAS",
-    "samples": [
-           {
-      "name": "TELECINCO CHANNEL",
-        "uri": "q/WyuVQPZRL/PX9J5hZj/DKyLfJJox5aw4nUPtARSlAxYrBw42VX6cdM4K9ruOFOVHL5sjaihXQZ766mj3AyZQ==",
-        "icono": "https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg"
-      },
-     {
-        "name": "UNIVISIÓN MX",
-        "uri": "JC++Z4kPWnyFKGaNd+MKbGJIr8XxrLM0elNjFHvtSl0ytMN8MST0hDxZvpzGaqy6+ajPW6IKm/n+1SX/5ufhUMULC3svA0pL62TNXTVRESM=",
-        "icono": "https://i.postimg.cc/K8SgbMXp/IMG-20240611-WA0053.jpg"
-      },
-    {
-        "name": "TLN",
-        "uri": "47DACNCYsaOJQIy/y0GYLyGfj2hQ8OX73lfxmf25vORTr6LHcICHnJxmVK1V3EEK3UdnyRMFW3tNjQgfwIMxNQ==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png"
-      },
-     {
-        "name": "TNT NOVELAS",
-        "uri": "zlZeeg/ENWzgVMeKl3ZJpTFAk+7H4xZ9djT1S+kmdbL7SOs2s6p+DQnSa4qEanYXoAswO32Zl66XAcR1v85EFRvhAs8MR550G8OvmKxBmvs=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "t+DgnUguJFubuNf5+yhRP+NyPKKx1D+8CGMQBfWuWHYZT+P+a7usrjLSqmvQXU+d",
-        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
-      },
-      {
-        "name": "PASIONES",
-        "uri": "hWGaeX7gJIJWHvqQJhTuaAI7dzF0cAtwVDmTMLGuixoZj0oxB9jr8TkXvICYSnwP",
- "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
-      },
-
-      {
-        "name": "TELEMUNDO INTERNACIONAL",
-        "uri": "/CJTQs66XRpxhKrDW6miVeH4+D/cN8QGSk0eulwTiL8UoiPV7PTKctIa0kn++2Yo",
-        "icono": "http://imgfz.com/i/cuq0V9R.png"
-      },  
-     {
-        "name": "TELEMUNDO",
-        "uri": "FBUuJQJrUI53aLiPXIBnxxGcG1UAyu1eAgr3XdP07kydymRrtRwt2aN/oaP7POGWB/dT54DiyboeX+rzmhzMequQuqdh2EyMl2qC60AWwq2/Z8hALYcrskBgkumFMjGA",
-        "icono": "http://imgfz.com/i/cuq0V9R.png"
-      },
-      {
-        "name": "LAS ESTRELLAS",
-        "uri": "3K85PF++zYMnhNYhouqAhyOXDzNgiEd9zFHSyjJYeQd3xSpRNvXNi6qeKxBWZlvECm070Wl1T0abPoljYdtckkErqNF7Rf2zkwfEE/XBq8s=",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
-      },
-     {
-        "name": "NOVELAS",
-        "uri": "47DACNCYsaOJQIy/y0GYLyGfj2hQ8OX73lfxmf25vORTr6LHcICHnJxmVK1V3EEK3UdnyRMFW3tNjQgfwIMxNQ==",
-        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
-      }
+      
         ]
     },
 {
