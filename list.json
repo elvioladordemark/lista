@@ -649,13 +649,7 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHCzb22MGcgk4aipfCU6B5QR194RbbZ7MYtXbV2ie+QEP7S7aZAGbz2CxnPjUO/kg/SMMs0c5cN70MWfEra176VnrJioYbojm7GR+QNQ65BhVZOeB3Yhnb/PJJ4kDHfr6g==",
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg"
       },
-      {
-        "name": "ISAT",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3ofHH+x+cHvZuAm8RtrDkN8gH8YjByyKgFWAELWntfPZYsaWdi3DahVWc6OKExi03c=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHO402Ko23CRVlcjrqO0ip2A3+m6vXJkeRgv0IbZYuzl+8UTzLKCQjKAP380Ht/5siW4jC6lFB8IRtx97qKoPkMNFIhbskAFxWyqp8bem/NVTtetpf0BoBuMTiY9wf1E6kA==",
-        "icono": "https://i.ibb.co/9NGrPbD/yl4-O9-YOo-400x400.jpg"
-      },
+      
       {
         "name": "A3SERIES",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3oTqlrWENSOMQ3tZw6Lqw0JBRP3IE9zhtZvQh/LoSi6hjPgWsIMAgoqYwpSKE+XseqCxjUgKBeVdYYMHdjCoCu7",
@@ -663,13 +657,7 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHLs92u7HNAXtuyxOY0dm4QNhYXplnFA9JATKLMc0NfUEwW6kH65duazzzz1aJoHyKNUigi0DQB+35eVj8ce/9HB50DfXZxPpCtQCIuL6eye9qE7yDG7FV+Z39DRbbSVzMQ==",
         "icono": "https://i.ibb.co/L6NV6Dy/720x540.jpg"
       },
-      {
-        "name": "SYFY",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pTS5/3jhXz8Uby793NyoyCgH8YjByyKgFWAELWntfPZervVM9nX6kHJ/uEEvq1yFE=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHGY9iGBjvR8EMJDjybIlwoleJMgmCTJdHwMA3yIMBkF23uq7oTun5Xj2O8Wz6BHJ9JFkjb71Tw+W9CuIKP+s2aCzeOfoPpf1T+RVbifcvB6yFUzbkHDFJe6o4F7IiETT0Q==",
-        "icono": "https://i.ibb.co/0QTGNzm/unnamed-9.jpg"
-      },
+    
       {
         "name": "COMEDY CENTRAL",
         "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3pRF4f3Lj8CSy1J8myB3aX1jZ0zNnseItFqKS0rPY02v42EiAY4+BrwwLpr4o1aqMU+nDSbDZaUf1/ZnetBGaWU",
@@ -808,7 +796,59 @@
                 "icono": "https://ayuda.tigo.com.bo/hc/article_attachments/17871817726099"
                 
             }
-    
+       ]
+    },
+{
+    "name": "📺CANALES DE NOVELAS",
+    "samples": [
+           {
+      "name": "TELECINCO CHANNEL",
+        "uri": "q/WyuVQPZRL/PX9J5hZj/DKyLfJJox5aw4nUPtARSlAxYrBw42VX6cdM4K9ruOFOVHL5sjaihXQZ766mj3AyZQ==",
+        "icono": "https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg"
+      },
+     {
+        "name": "UNIVISIÓN MX",
+        "uri": "JC++Z4kPWnyFKGaNd+MKbGJIr8XxrLM0elNjFHvtSl0ytMN8MST0hDxZvpzGaqy6+ajPW6IKm/n+1SX/5ufhUMULC3svA0pL62TNXTVRESM=",
+        "icono": "https://i.postimg.cc/K8SgbMXp/IMG-20240611-WA0053.jpg"
+      },
+    {
+        "name": "TLN",
+        "uri": "47DACNCYsaOJQIy/y0GYLyGfj2hQ8OX73lfxmf25vORTr6LHcICHnJxmVK1V3EEK3UdnyRMFW3tNjQgfwIMxNQ==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png"
+      },
+     {
+        "name": "TNT NOVELAS",
+        "uri": "zlZeeg/ENWzgVMeKl3ZJpTFAk+7H4xZ9djT1S+kmdbL7SOs2s6p+DQnSa4qEanYXoAswO32Zl66XAcR1v85EFRvhAs8MR550G8OvmKxBmvs=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "t+DgnUguJFubuNf5+yhRP+NyPKKx1D+8CGMQBfWuWHYZT+P+a7usrjLSqmvQXU+d",
+        "icono": "https://i.ibb.co/jVMmjN6/descarga-8.png"
+      },
+      {
+        "name": "PASIONES",
+        "uri": "hWGaeX7gJIJWHvqQJhTuaAI7dzF0cAtwVDmTMLGuixoZj0oxB9jr8TkXvICYSnwP",
+ "icono": "https://i.ibb.co/3FvjfFk/800px-Pasiones-Tv-logo-svg.png"
+      },
+
+      {
+        "name": "TELEMUNDO INTERNACIONAL",
+        "uri": "/CJTQs66XRpxhKrDW6miVeH4+D/cN8QGSk0eulwTiL8UoiPV7PTKctIa0kn++2Yo",
+        "icono": "http://imgfz.com/i/cuq0V9R.png"
+      },  
+     {
+        "name": "TELEMUNDO",
+        "uri": "FBUuJQJrUI53aLiPXIBnxxGcG1UAyu1eAgr3XdP07kydymRrtRwt2aN/oaP7POGWB/dT54DiyboeX+rzmhzMequQuqdh2EyMl2qC60AWwq2/Z8hALYcrskBgkumFMjGA",
+        "icono": "http://imgfz.com/i/cuq0V9R.png"
+      },
+      {
+        "name": "LAS ESTRELLAS",
+        "uri": "3K85PF++zYMnhNYhouqAhyOXDzNgiEd9zFHSyjJYeQd3xSpRNvXNi6qeKxBWZlvECm070Wl1T0abPoljYdtckkErqNF7Rf2zkwfEE/XBq8s=",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"
+      },
+     {
+        "name": "NOVELAS",
+        "uri": "47DACNCYsaOJQIy/y0GYLyGfj2hQ8OX73lfxmf25vORTr6LHcICHnJxmVK1V3EEK3UdnyRMFW3tNjQgfwIMxNQ==",
+        "icono": "https://i.ibb.co/W5ch0by/Tlnovelas-2011-logo-svg.png"
+      }
         ]
     },
 {
