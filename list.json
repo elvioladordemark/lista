@@ -802,7 +802,12 @@
 {
     "name": "📺CANALES DE NOVELAS",
     "samples": [
-                                    {
+        {
+      "name": "NOVELISIMA",
+        "uri": "Qk26khJskAPuOwmwG6r/EjX0l2IOsAoUjki73m/A+Coc2dmCvD6/Tg2DEtlECw2byzTKrELlATEg338GpsVzseoI41LENIwBV5+03zeBO6zqPjnzTTHGrdtCmx+gPzdt",
+        "icono": "https://i.postimg.cc/FHtfQ7ZY/u-UDVAq-ZNNYIdwh-D-5n3z-Gb-Ty-Lpuf-Ae6gsk-Mgp9-Bro-YQ.jpg"
+      }, 
+	{
       "name": "CANELA NOVELAS INOLVIDABLES",
         "uri": "Qk26khJskAPuOwmwG6r/EjX0l2IOsAoUjki73m/A+CrY1QG9PGrWEORUmLO2gzgAjGAiLUpZqmzx6ldmPWQougFSlTfHMHG6R130Ez55Ma7Cuq3JQvZUgdXze/cImIJL",
         "icono": "https://i.postimg.cc/2S5pHwpm/channel-novelas-inolvidables-16x9-7.jpg"
