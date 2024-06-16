@@ -1330,9 +1330,24 @@
      ]
   },
  {
-    "name": "RETROS TV",
+    "name": "RETRO TV CLASICA",
     "samples": [
-              {
+          {
+        "name": "RETRO TV ONLINE",
+        "uri": "UsTKcrTbVMkPTaUj8CgYVB9DmJ3LDBMjn4DJvqtG5TfPiuR9RMVVXnjOw5WT51Fb9nZjugxk91vYI9R1/LmvtrY9FYaBYxutXSw5QL7/fAQ=",
+        "icono": "https://i.postimg.cc/9FNgQB7x/descarga-7.jpg"
+      }, 
+	    {
+        "name": "RETRO TV PALMARES",
+        "uri": "yBPHClUP75K/mGkOPkixqSdIE5g0Kzd3oq9jILgWznJCzvdz+VrRFyfZQ7+5uAPa3mJ4OtGHeUFLFbmyAZTQ2g==",
+        "icono": "https://i.postimg.cc/T2KRPtyS/descarga-6.jpg"
+      }, 
+     {
+        "name": "TELECLASICA",
+        "uri": "UsTKcrTbVMkPTaUj8CgYVB9DmJ3LDBMjn4DJvqtG5TeQWvb1cK/aSa05mxxahapDk8n7GscMXQuXMVnYl+2kbg==",
+        "icono": "https://i.postimg.cc/gjCh11fL/descarga-5.jpg"
+      },   
+	    {
         "name": "RETROX TV",
         "uri": "dgsTkD21eS3JdkDN9T4ItnwS3kSBYKZuYgb4sbqdo3aYlxKSeYo7psHWBDYT2dHFflA0/KMNojlb8qObvhwCQ7Y9FYaBYxutXSw5QL7/fAQ=",
         "icono": "https://i.postimg.cc/nVsWmBcC/descarga-4.jpg"
