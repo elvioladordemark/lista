@@ -802,7 +802,22 @@
 {
     "name": "📺CANALES DE NOVELAS",
     "samples": [
-           {
+                                    {
+      "name": "CANELA NOVELAS INOLVIDABLES",
+        "uri": "Qk26khJskAPuOwmwG6r/EjX0l2IOsAoUjki73m/A+CrY1QG9PGrWEORUmLO2gzgAjGAiLUpZqmzx6ldmPWQougFSlTfHMHG6R130Ez55Ma7Cuq3JQvZUgdXze/cImIJL",
+        "icono": "https://i.postimg.cc/2S5pHwpm/channel-novelas-inolvidables-16x9-7.jpg"
+      },        
+	    {
+      "name": "CANELA NOVELAS",
+        "uri": "Qk26khJskAPuOwmwG6r/EjX0l2IOsAoUjki73m/A+CrXrnQTXAZA+rOCS46sjCWqq6A6ONn/08bX5bQhdrqs9QFSlTfHMHG6R130Ez55Ma7j/Exb4KSTcTLzgLOfx8wx",
+        "icono": "https://i.postimg.cc/pdy0jGwh/channel-canela-telenovelas-16x9.jpg"
+      },
+	    {
+      "name": "NOVELAS TURCAS",
+        "uri": "Qk26khJskAPuOwmwG6r/EjX0l2IOsAoUjki73m/A+Coip+d9EVVt4wJs/4qpF838ogJ5Z7xQw3mOovsKbCZ3oAFSlTfHMHG6R130Ez55Ma7ROUPcCUf/lLO1E8FrjIzH",
+        "icono": "https://i.postimg.cc/vBhdmSf1/channel-novelasturcas-16x9-1.jpg"
+      },
+	    {
       "name": "TELECINCO CHANNEL",
         "uri": "q/WyuVQPZRL/PX9J5hZj/DKyLfJJox5aw4nUPtARSlAxYrBw42VX6cdM4K9ruOFOVHL5sjaihXQZ766mj3AyZQ==",
         "icono": "https://album.mediaset.es/eimg/2019/12/11/bxL4goyXJpmn9qOT9bdBy4.jpg"
