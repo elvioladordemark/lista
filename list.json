@@ -23,6 +23,9 @@
          {
       "name": "TIGO SPORTS 3 EN VIVO",
         "uri": "t+DgnUguJFubuNf5+yhRP/n4HTU6qakeEXDv+mt1lR/QB/RrVALQxieI5Is3OcJY",
+		 "drm_scheme": "clearkey",
+                "drm_license_uri": "t+DgnUguJFubuNf5+yhRP6RWF6bj/jRdQBVKpaeV2obq9MrRIR2NCEjxYwbzxD5+",
+            
         "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
       },
 	    {
