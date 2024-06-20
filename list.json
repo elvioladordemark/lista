@@ -1634,7 +1634,12 @@
         "uri": "JXYnBvdapS4TUfyx7+bAZWv/FjWxClyfKabVV+C1G8Tq3oCO0Um411jmKG7vtd/TTW7k7VuboBlEXqaQhcWqGr2zms2gW0ZkhiPPLTsJLlsIodbTrG0o6bRcJ7EnO3EK",
         "icono": "https://i.ibb.co/7nbf44D/i-Vrvs-XOo-400x400.jpg"
       },
-	  {
+	 {
+        "name": "AMC",
+        "uri": "JXYnBvdapS4TUfyx7+bAZUGEukZtCwuZnbAdW1ncIfdtJM3s6Eas8wNNpCjs0aG+boB+z5J7pEkoRaPtoLEaafw+HHnAUzArJFOxfrpdmC0=",
+        "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg"
+      }, 
+	{
         "name": "STAR CHANNEL",
         "uri": "JXYnBvdapS4TUfyx7+bAZUGEukZtCwuZnbAdW1ncIfdtJM3s6Eas8wNNpCjs0aG+boB+z5J7pEkoRaPtoLEaadSVkbEiEBEcRfO2p9VHnwk=",
         "icono": "https://i.ibb.co/c8ngzK0/T6-Xtj-Jp-V-400x400.jpg"
