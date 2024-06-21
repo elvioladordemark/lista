@@ -6,13 +6,13 @@
 
        {
       "name": "TIGO SPORTS 1 EN VIVO",
-        "uri": "uFQNC7AcOPLFuBFRFuoupM6C96i3YYAPTApC3xEc0SHRB9Eya4New8ydIJPLfMZCUv962kRYRc9DJyIC1UCF4UsjciXgee9aqYaIdFQTu/9vVaV3vl9Yvi+jXzFOUQMIxYj+My2T/ILap6guXM2sQH6+tlCj7GVqvS9gGPRHhvNrp7szYVNWKUOvB5rbBtokkQwnCOaf4rsNV3beA6Zqs5KqQjItsIYk2wsUEJ8ITZjDaSukWzPHQBM0uJgvVlialO/my+gEnf4Pew1DEY98yQ==",
+        "uri": "n4KZkCDQW8MsWB5xhJhUkBgBbHtdtxTPYRLKGYETRDuCqKpUhAK6WdJwHd6orA+65cNHO6Gnl8fBGWXqz0KsgApDUwGLL3qlW1BqMwLHMDQQ1HEe8RXSSKZxt9BeuJArqKG7kEtDVrhUf9eFZJb+9DxXvwxsarRxtN+ltxHBvLR0aUO/4OWwidBJspZho2Twt2azPQooH0yRrWNDBpeHwvBSW0VkJBvCMJbSYFBGAWB0E54kZXKkqXZ7iintoCOJreD1BDXqni3+bIzw8zN0ww==",
         "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
       },
        
        {
       "name": "TIGO SPORTS 1 EN VIVO OPCIONAL",
-        "uri": "t+DgnUguJFubuNf5+yhRP9yfsQiUo7YI704kMYKqdFvQB/RrVALQxieI5Is3OcJY",
+        "uri": "A31stJwYOQmFJzWPZBTH6RgBbHtdtxTPYRLKGYETRDuCqKpUhAK6WdJwHd6orA+6IVpvCZTPd+7m2p+6KPUJu6IxFeRhGkXv/X9WbIRjCnCCyV3ymtKLLdv70LChAJAzqKG7kEtDVrhUf9eFZJb+9DxXvwxsarRxtN+ltxHBvLR0aUO/4OWwidBJspZho2Twt2azPQooH0yRrWNDBpeHwvBSW0VkJBvCMJbSYFBGAWA9CvBcY92ZDg1DQ+0ONuRB",
         "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
       },  
     {
@@ -1639,7 +1639,17 @@
         "uri": "JXYnBvdapS4TUfyx7+bAZUGEukZtCwuZnbAdW1ncIfdtJM3s6Eas8wNNpCjs0aG+boB+z5J7pEkoRaPtoLEaafw+HHnAUzArJFOxfrpdmC0=",
         "icono": "https://i.ibb.co/SstC2vr/IMV4-Vz3l-400x400.jpg"
       }, 
+	  {
+        "name": "PARAMOUNT",
+        "uri": "JXYnBvdapS4TUfyx7+bAZUGEukZtCwuZnbAdW1ncIfdtJM3s6Eas8wNNpCjs0aG+boB+z5J7pEkoRaPtoLEaaR37JTjptOEn792f6ocAA6M= ",
+        "icono": "https://i.ibb.co/zr8Cbvm/Tr1bp-Stg-400x400.jpg"
+      },
 	{
+        "name": "WARNER TV",
+        "uri": "JXYnBvdapS4TUfyx7+bAZUGEukZtCwuZnbAdW1ncIfdtJM3s6Eas8wNNpCjs0aG+boB+z5J7pEkoRaPtoLEaaUr+2lg3gvwJ6iraiX3y0js=",
+        "icono": "https://i.ibb.co/0FRTL4r/channels4-profile-3.jpg"
+      },
+	    {
         "name": "STAR CHANNEL",
         "uri": "JXYnBvdapS4TUfyx7+bAZUGEukZtCwuZnbAdW1ncIfdtJM3s6Eas8wNNpCjs0aG+boB+z5J7pEkoRaPtoLEaadSVkbEiEBEcRfO2p9VHnwk=",
         "icono": "https://i.ibb.co/c8ngzK0/T6-Xtj-Jp-V-400x400.jpg"
