@@ -81,7 +81,12 @@
 {
     "name": "⚽AMISTOSOS COPA AMERICA",
     "samples": [
-       {
+        {
+      "name": "TV MAX PANAMA",
+        "uri": "4nIimsbBcuQw+NZ9+UYjXtY76MYmViyIHLqbup7+8VXAecJgCsmg3B8sBgu99JCN9ptj3hA7tbDBfGCd5z6cLZGSGM3pJV6k6851EJNCn2uWWO91z1yPnbmH8nSTNOGEOCZ1k/jj5tnlrnaveGDigUErqNF7Rf2zkwfEE/XBq8s=",
+        "icono": "https://i.postimg.cc/9fySxqt9/descarga-5.png"
+      },
+	    {
       "name": "AZTECA 7",
         "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaSrnHTC88LvR4Vx10LYRld0Af0a1QC0MYniOSLNznCWA==",
         "icono": "https://i.postimg.cc/ZnjSg87L/Logo-Azteca-7-2011-svg.png"
