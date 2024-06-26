@@ -79,7 +79,7 @@
        ]
   },
 {
-    "name": "⚽AMISTOSOS COPA AMERICA",
+    "name": "⚽COPA AMERICA",
     "samples": [
         {
       "name": "TV MAX PANAMA",
@@ -100,6 +100,18 @@
         "name": "TUDN MX 1",
         "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaqCUZyGzo0tX3ds3K6lIFD0Af0a1QC0MYniOSLNznCWA==",
         "icono": "http://imgfz.com/i/8NP5UE3.png"
+      },
+	      {
+        "name": "TYC SPORTS",
+        "uri": "0AtXxerwmnD9BKAjpiEwdcvlWGENTO1PQx8UTE+307WdiJL5EooXB8VV10ZVYtQXr45f3xEmDMPVbVWjOv3O54cG3E4Q1Xo5JQQOpT3NZIND4jVBz3QVXMdsa+7O79Ad",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKE5D7J77nZ4yXX4xhISbyKvjpSZK+GBxdNLDgdskwVxS6IdSRVf5vojvB2DY1bGzBrZ1TCy+W8Ugud8i9tLEzBv4j6QLRSeXMAGrPdreyardXolbrDlO9fKl74K0kMBjQ==",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+      },
+	        {
+      "name": "TIGO SPORTS PLUS EN VIVO",
+        "uri": "t+DgnUguJFubuNf5+yhRPwgeQO63C5aNMGdvOY7f3pLQB/RrVALQxieI5Is3OcJY",
+        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
       },
       {
                 "name": "GOL CARACOL",
