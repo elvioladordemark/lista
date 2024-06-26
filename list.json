@@ -81,7 +81,14 @@
 {
     "name": "⚽COPA AMERICA",
     "samples": [
-        {
+          {
+                "name": "TIGO SPORTS SOLO EVENTOS 1",
+                "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "t+DgnUguJFubuNf5+yhRP6RWF6bj/jRdQBVKpaeV2obq9MrRIR2NCEjxYwbzxD5+",
+                "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
+            },
+	    {
       "name": "TV MAX PANAMA",
         "uri": "4nIimsbBcuQw+NZ9+UYjXtY76MYmViyIHLqbup7+8VXAecJgCsmg3B8sBgu99JCN9ptj3hA7tbDBfGCd5z6cLZGSGM3pJV6k6851EJNCn2uWWO91z1yPnbmH8nSTNOGEOCZ1k/jj5tnlrnaveGDigUErqNF7Rf2zkwfEE/XBq8s=",
         "icono": "https://i.postimg.cc/9fySxqt9/descarga-5.png"
