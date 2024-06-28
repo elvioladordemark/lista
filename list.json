@@ -89,21 +89,7 @@
                 "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHPlNA0rP8anqEohN1KvG8PBUSH6m1MkwzcaUiecDMg0ZhKmcTWrILJAenz4JyJtIlo6Mo4tNiK6xOi9t77FjXh1PYtRfM0BVGsqxxQ/xfxkrdHA5DmGcbS4aViCFyUBv3A==",
                 "icono": "https://i.ibb.co/179yfJx/eventos-1.png"
             },
-	         {
-                "name": "EVENTOS FLOW 2",
-                "uri": "https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd",
-		"drm_scheme": "widevine",
-                "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=NmJiMDI4MDgwNTA2ZGJhYmVkMzFlZGZlY2MwYTE5OWQ",
-                "icono": "https://i.ibb.co/Pr3Q9MF/eventos-2.png"
-            },
-	     {
-                "name": "EVENTOS FLOW 3",
-                "uri": "https://cdn.cvattv.com.ar/live/c7eds/Eventos_3/SA_Live_dash_enc/Eventos_3.mpd",
-                "drm_scheme": "widevine",
-                "drm_license_uri": "https://wv-client.cvattv.com.ar?deviceId=OWVlMDEyMmI1ZmNhOTIzMGRjNTFmNGJhNjUyYjAzNDU",
-		"icono": "https://i.ibb.co/Pr3Q9MF/eventos-2.png"
-            },
-	    {
+	        
                 "name": "TIGO SPORTS SOLO EVENTOS 1",
                 "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
                 "drm_scheme": "clearkey",
