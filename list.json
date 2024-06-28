@@ -1,5 +1,77 @@
 [
- 
+ {
+    "name": "⚽COPA AMERICA",
+    "samples": [
+         
+	     {
+                "name": "EVENTOS FLOW 1",
+                "uri": "E+GzAjbNJgi9Ivi43A/FwMe1EglxSWsOJyAPj8IgvNSMM9Mp7enCDv0QfGtCUCgskTp5xBVeBgRJB9t7IIwG67fNU7p+pnxavM16Ak+3l/w=",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHPlNA0rP8anqEohN1KvG8PBUSH6m1MkwzcaUiecDMg0ZhKmcTWrILJAenz4JyJtIlo6Mo4tNiK6xOi9t77FjXh1PYtRfM0BVGsqxxQ/xfxkrdHA5DmGcbS4aViCFyUBv3A==",
+                "icono": "https://i.ibb.co/179yfJx/eventos-1.png"
+            },
+	     {   
+                "name": "TIGO SPORTS SOLO EVENTOS 1",
+                "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
+                "drm_scheme": "clearkey",
+                "drm_license_uri": "t+DgnUguJFubuNf5+yhRP6RWF6bj/jRdQBVKpaeV2obq9MrRIR2NCEjxYwbzxD5+",
+                "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
+            },
+	         {
+        "name": "TYC SPORTS",
+        "uri": "0AtXxerwmnD9BKAjpiEwdcvlWGENTO1PQx8UTE+307WdiJL5EooXB8VV10ZVYtQXr45f3xEmDMPVbVWjOv3O54cG3E4Q1Xo5JQQOpT3NZIND4jVBz3QVXMdsa+7O79Ad",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKE5D7J77nZ4yXX4xhISbyKvjpSZK+GBxdNLDgdskwVxS6IdSRVf5vojvB2DY1bGzBrZ1TCy+W8Ugud8i9tLEzBv4j6QLRSeXMAGrPdreyardXolbrDlO9fKl74K0kMBjQ==",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
+      },
+	      {
+      "name": "RPC EVENTOS",
+        "uri": "SkdkGJ1QkMFtm8IwEJv2DhiCl87utKHzZuPKcPEoOaXLz4mpsKMPDQagNTbeiCqptAb/bwUAxR32FiBWgzq9hZJ21z/TG9XnFI2FwwRaw8IO49BwGDW68IJ7w5X6CqxAeYtYHfi/+VtOI5v2pNv9l1Mw9YmhlQYgfCJfptbErrQAydzoeXIksDx7qnOtjuZ8LuzrauHsA3/TpJzqeNzqeAHgEjTIjglBUISn3KlrxZw=",
+        "icono": "https://i.postimg.cc/PrDtCjXm/descarga-6.png"
+      },     
+	    {
+      "name": "CANAL 4 SALVADOR EVENTOS",
+        "uri": "lV2fpB6sxHwsEsoDrydEfnr5K+Yq55S+JtTtxC9AxC2RCloj6csBg7xdKG36mMk+b61lVNzkqktTYIeT8Tlu9CXQTPwp/ysFf0mzIzngAaqOb3eAAZFSWp/oZdQ5hZ3A1BDTSnc9zWqK8Jw5KUGiiQ==",
+        "icono": "https://i.postimg.cc/VLMPgWbM/descarga-11.jpg"
+      },
+	    {
+      "name": "TV MAX PANAMA",
+        "uri": "4nIimsbBcuQw+NZ9+UYjXtY76MYmViyIHLqbup7+8VXAecJgCsmg3B8sBgu99JCN9ptj3hA7tbDBfGCd5z6cLZGSGM3pJV6k6851EJNCn2uWWO91z1yPnbmH8nSTNOGEOCZ1k/jj5tnlrnaveGDigUErqNF7Rf2zkwfEE/XBq8s=",
+        "icono": "https://i.postimg.cc/9fySxqt9/descarga-5.png"
+      },
+	    {
+        "name": "UNIVISIÓN MX",
+        "uri": "y1LXb46KgRJloFb/CjPXqe3/RboO7XyoVfSlvHQCY1tF7rvsSMkisQ6kCUJYcLyaj5KUHEdYxaoZ+o5gJ07lYzeBP/tbTPFypsr1BsOVqc41DTVxGI/zGaBHv7I+v9djAIv3iFPk1JJOdvUXCizwvw==",
+        "icono": "https://i.postimg.cc/K8SgbMXp/IMG-20240611-WA0053.jpg"
+      },
+	    {
+      "name": "AZTECA 7",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaSrnHTC88LvR4Vx10LYRld0Af0a1QC0MYniOSLNznCWA==",
+        "icono": "https://i.postimg.cc/ZnjSg87L/Logo-Azteca-7-2011-svg.png"
+      },
+       {
+      "name": "RCN",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLbwzx6j0JnfClItaCzb46GD0Af0a1QC0MYniOSLNznCWA==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png"
+      },
+           {
+        "name": "TUDN MX 1",
+        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaqCUZyGzo0tX3ds3K6lIFD0Af0a1QC0MYniOSLNznCWA==",
+        "icono": "http://imgfz.com/i/8NP5UE3.png"
+      },
+	 
+	        {
+      "name": "TIGO SPORTS EN VIVO",
+        "uri": "t+DgnUguJFubuNf5+yhRPwgeQO63C5aNMGdvOY7f3pLQB/RrVALQxieI5Is3OcJY",
+        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
+      },
+      {
+                "name": "GOL CARACOL",
+                "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLao1abwhkRsUjYfo7TX6CZf0Af0a1QC0MYniOSLNznCWA==",
+          "icono": "https://caracoltv.brightspotcdn.com/dims4/default/7f6b6c4/2147483647/strip/true/crop/970x509+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fcaracoltv%2Fcaracolgol_970.jpg"
+            }
+       ]
+  },
 {
     "name": "⚽TIGO EVENTOS Y 24/7",
     "samples": [
@@ -78,79 +150,7 @@
   
        ]
   },
-{
-    "name": "⚽COPA AMERICA",
-    "samples": [
-         
-	     {
-                "name": "EVENTOS FLOW 1",
-                "uri": "E+GzAjbNJgi9Ivi43A/FwMe1EglxSWsOJyAPj8IgvNSMM9Mp7enCDv0QfGtCUCgskTp5xBVeBgRJB9t7IIwG67fNU7p+pnxavM16Ak+3l/w=",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHPlNA0rP8anqEohN1KvG8PBUSH6m1MkwzcaUiecDMg0ZhKmcTWrILJAenz4JyJtIlo6Mo4tNiK6xOi9t77FjXh1PYtRfM0BVGsqxxQ/xfxkrdHA5DmGcbS4aViCFyUBv3A==",
-                "icono": "https://i.ibb.co/179yfJx/eventos-1.png"
-            },
-	     {   
-                "name": "TIGO SPORTS SOLO EVENTOS 1",
-                "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "t+DgnUguJFubuNf5+yhRP6RWF6bj/jRdQBVKpaeV2obq9MrRIR2NCEjxYwbzxD5+",
-                "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
-            },
-	         {
-        "name": "TYC SPORTS",
-        "uri": "0AtXxerwmnD9BKAjpiEwdcvlWGENTO1PQx8UTE+307WdiJL5EooXB8VV10ZVYtQXr45f3xEmDMPVbVWjOv3O54cG3E4Q1Xo5JQQOpT3NZIND4jVBz3QVXMdsa+7O79Ad",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHKE5D7J77nZ4yXX4xhISbyKvjpSZK+GBxdNLDgdskwVxS6IdSRVf5vojvB2DY1bGzBrZ1TCy+W8Ugud8i9tLEzBv4j6QLRSeXMAGrPdreyardXolbrDlO9fKl74K0kMBjQ==",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg"
-      },
-	      {
-      "name": "RPC EVENTOS",
-        "uri": "SkdkGJ1QkMFtm8IwEJv2DhiCl87utKHzZuPKcPEoOaXLz4mpsKMPDQagNTbeiCqptAb/bwUAxR32FiBWgzq9hZJ21z/TG9XnFI2FwwRaw8IO49BwGDW68IJ7w5X6CqxAeYtYHfi/+VtOI5v2pNv9l1Mw9YmhlQYgfCJfptbErrQAydzoeXIksDx7qnOtjuZ8LuzrauHsA3/TpJzqeNzqeAHgEjTIjglBUISn3KlrxZw=",
-        "icono": "https://i.postimg.cc/PrDtCjXm/descarga-6.png"
-      },     
-	    {
-      "name": "CANAL 4 SALVADOR EVENTOS",
-        "uri": "lV2fpB6sxHwsEsoDrydEfnr5K+Yq55S+JtTtxC9AxC2RCloj6csBg7xdKG36mMk+b61lVNzkqktTYIeT8Tlu9CXQTPwp/ysFf0mzIzngAaqOb3eAAZFSWp/oZdQ5hZ3A1BDTSnc9zWqK8Jw5KUGiiQ==",
-        "icono": "https://i.postimg.cc/VLMPgWbM/descarga-11.jpg"
-      },
-	    {
-      "name": "TV MAX PANAMA",
-        "uri": "4nIimsbBcuQw+NZ9+UYjXtY76MYmViyIHLqbup7+8VXAecJgCsmg3B8sBgu99JCN9ptj3hA7tbDBfGCd5z6cLZGSGM3pJV6k6851EJNCn2uWWO91z1yPnbmH8nSTNOGEOCZ1k/jj5tnlrnaveGDigUErqNF7Rf2zkwfEE/XBq8s=",
-        "icono": "https://i.postimg.cc/9fySxqt9/descarga-5.png"
-      },
-	    {
-        "name": "UNIVISIÓN MX",
-        "uri": "y1LXb46KgRJloFb/CjPXqe3/RboO7XyoVfSlvHQCY1tF7rvsSMkisQ6kCUJYcLyaj5KUHEdYxaoZ+o5gJ07lYzeBP/tbTPFypsr1BsOVqc41DTVxGI/zGaBHv7I+v9djAIv3iFPk1JJOdvUXCizwvw==",
-        "icono": "https://i.postimg.cc/K8SgbMXp/IMG-20240611-WA0053.jpg"
-      },
-	    {
-      "name": "AZTECA 7",
-        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaSrnHTC88LvR4Vx10LYRld0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://i.postimg.cc/ZnjSg87L/Logo-Azteca-7-2011-svg.png"
-      },
-       {
-      "name": "RCN",
-        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLbwzx6j0JnfClItaCzb46GD0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png"
-      },
-           {
-        "name": "TUDN MX 1",
-        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaqCUZyGzo0tX3ds3K6lIFD0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "http://imgfz.com/i/8NP5UE3.png"
-      },
-	 
-	        {
-      "name": "TIGO SPORTS EN VIVO",
-        "uri": "t+DgnUguJFubuNf5+yhRPwgeQO63C5aNMGdvOY7f3pLQB/RrVALQxieI5Is3OcJY",
-        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
-      },
-      {
-                "name": "GOL CARACOL",
-                "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLao1abwhkRsUjYfo7TX6CZf0Af0a1QC0MYniOSLNznCWA==",
-          "icono": "https://caracoltv.brightspotcdn.com/dims4/default/7f6b6c4/2147483647/strip/true/crop/970x509+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcaracol-brightspot.s3-us-west-2.amazonaws.com%2Fassets%2Fcaracoltv%2Fcaracolgol_970.jpg"
-            }
-       ]
-  },
+
       {
     "name": "⚽DEPORTES ESPN",
     "samples": [
