@@ -82,11 +82,7 @@
 {
     "name": "⚽TIGO EVENTOS Y 24/7",
     "samples": [
-  {
-      "name": "OLIMPIA VS INDEPENDIENTE",
-        "uri": "t+DgnUguJFubuNf5+yhRP/LEKJ6RYAiEegElFhk9dzPQB/RrVALQxieI5Is3OcJY",
-        "icono": "https://i.postimg.cc/cCnpxZqG/IMG-20240708-WA0293.jpg"
-  },
+
 	    
 	    {
       "name": "TIGO SPORTS 1 EN VIVO",
@@ -96,22 +92,11 @@
        
        {
       "name": "TIGO SPORTS 1 EN VIVO OPCIONAL",
-        "uri": "TwEtc8nFUvtqTVZLM48YdAqy2Zu6gMF3RvEcUlAqDdSwp/IkgZCERxR3Jd6Lw9X3YdNth3Qv4bk25q/gh+qb6HcrRqDrMeNjx7jpK+qb5yA3eWRCMwDT3l3v4QLigLnlTZHkPz7/FULTeVV187Mjo5stPHn9vNKkY0hM1pT6a6Frp7szYVNWKUOvB5rbBtokkQwnCOaf4rsNV3beA6Zqsz+osuZ/4A82jRJtf2V9t6AT4+CMB1xXNm9dlRgkpRt3lO/my+gEnf4Pew1DEY98yQ==",
+        "uri": "SBSQm4ckl3c5IQvrzujPryZmpfraM67s0Sn1VY8DNxMX9blvrQ+uHzYySyJ2Xin3WtbQlIewDpL6R/35U6vZ5MtmkBxG0aXSe2BkDVs9TpyV3DBsSq6WORZ6BrSqtVommX+6FgV8t9bloA2nlhonNRwfm+uO532LhrsI5rP1m9Td6E2uu4DfGiJ7ZD3DOQxitksNIy6DKs1GsPat94ILEDoChuVQYVHBqVyrwVe71dNwfhSFS2HHxi98gqjM8dM3lpd6DGQb/FTVQvxeOCJA+g==",
         "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
       },  
-    {
-      "name": "TIGO SPORTS PLUS EN VIVO",
-        "uri": "/nPsP88+weTHl1C+eqC/Sr2cRijxwkqWSUt0CTLS703Yv2L/443A8c/c4IFfOfUnhv28BQaqu0VZ5Sv9A5WLFUDeL6g6K4mTWV0BxXnmO4DvZZgEaMj05yUscF8sNg3JYzcm72T1iRG5l4Uqno6aZDwRcWvwcAhgN3rJVcO6YH4lABJHcwarfPSS6dS/HmoCsOo6sRKjVVT3mmOWoFMxmslWwX64MT+dIbO5d/jN2i3g7okFIYyTrVSJzLARr6wTi46N48nD8KHeEZl6gwEPff6EtRd7We8UEqxrJFuAFN4=",
-        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
-      },
-         {
-      "name": "TIGO SPORTS 3 EN VIVO",
-        "uri": "OQir+AlOIehYG2ICG26IpM44LtCprospPrsF66tcvmcohNtAK7Ebm4KblX0UGGJ/OLuTUxCZXQ3nAOiYFrqaX7Pi1CkztrA99h2ExqEfNZ4OdeUYI+HHKUxg06c8BJJMmX+6FgV8t9bloA2nlhonNV9EKbb+meCioOhGmqrYjFrd6E2uu4DfGiJ7ZD3DOQxitksNIy6DKs1GsPat94ILEEyEcy0678LpwLgq4ORguyFY9rUJASpkvzgmp8Yr2MGZlpd6DGQb/FTVQvxeOCJA+g==",
-		 "drm_scheme": "clearkey",
-                "drm_license_uri": "t+DgnUguJFubuNf5+yhRP6RWF6bj/jRdQBVKpaeV2obq9MrRIR2NCEjxYwbzxD5+",
-            
-        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
-      },
+ 
+       
 	    {
                 "name": "TIGO SPORTS SOLO EVENTOS 1",
                 "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
@@ -125,15 +110,7 @@
         "drm_scheme": "widevine",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHFknZri8hbhN38i3lcnfESUEEsXC9XeWPCbi7i4OYtCO0tUICnujctZ7Lm0KP27VTh69hnqxEJj/g+jPXFV6LJsGq1KZ/2lpVO03CLNbYE9coExq1j2RG35pDSQfFabdlw==",
 			            "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
-      },
-	                     {
-                "name": "TIGO SPORTS EVENTOS 3",
-                "uri": "5YuRrH8HYuN6v8YTnXztzFy9OcUl5M/1mfftcx4NnbxtyukYNVNKJ3GfhllPrTJxUY4PIL7VvbHSbvY8hcI1QvrwHzODcmFSPc+RHApA00wRAMWwWraRj72qgsxx6vT3",
-                 
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHNtrFHc/cnRwrpiUrFEDGTH4kQKPM9amghb0ooil/+J9KyzVL2YkQ0wJ4El0IWJhDxuvzYw0ez+LD7/MM2yvGOWcayspPf7q5fEp9RsxRjRirTXKEmcYvEahSKRC/ha7wA==",
-                "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
-            }
+      }
      
 
        ]
