@@ -2,14 +2,8 @@
  {
     "name": "⚽JUEGOS OLIMPICOS PARIS 2024",
     "samples": [
-             {
-        "name": "SNT FLOW",
-        "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3rQ9x2SKzzfPhZwE6WfCQoi1g2Ya4QsU5WdJ4JeuHQhMUk9tsE8smuARXOHL3T5K+U=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "t+DgnUguJFubuNf5+yhRPw5ua9XaXQ5pClR0kDtXITTfrGUsEVYDazis16bK1dJjtJiQcHLtB+/OqjOAhfL02ECvjU7MJ8PgjPZrSSAG0hCPlXMFGpqidJ+iChjkJsmh39t6Ms4xCLkpeHVywv1hTcjwswNQYdVsaGINQm3f1b38/Vg8L57dAD6l2bi5A3HU",
-        "icono": "https://i.ibb.co/jvGLkCK/unnamed.jpg"
-      },
-	        {
+      
+     {
         "name": "CLARO SPORTS 1",
         "uri": "2FQeiV4aocZ1lAdtAbURVyO0q6bgWP3PsNQEF0/V3evDV4i7MAUk9Ck27gB8INGI286LrJulSuFavx12BjuLHZcFltw277PaxxiBS1TIXP8=",
         "icono": "https://i.postimg.cc/c1KVC6LM/cs01-lat-135001-768x432.png"
