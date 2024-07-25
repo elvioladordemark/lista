@@ -38,17 +38,17 @@
 		{
     "name": "⚽COPA SUDAMERICANA ",
     "samples": [
-         
+            {
+      "name": "CERRO PORTEÑO VS ATL. PARANAENSE",
+        "uri": "t+DgnUguJFubuNf5+yhRP+5Nzi1INP9qe30TAEwGKXDQB/RrVALQxieI5Is3OcJY",
+        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
+      },
        {
       "name": "TIGO SPORTS 1 EN VIVO OPCIONAL",
         "uri": "S5vmc9/CCu2TJm9JERimv72cRijxwkqWSUt0CTLS702M/cprf2zmF/5WI/h08hEABjROQy5gvH3lwFgp/9lSWo5NMhPya1z6RxS4Nae9EEpVIZXg6BrBGWrIFQ8fPNd+Yzcm72T1iRG5l4Uqno6aZLiC1o4KkPllL9v6GycmO0J1ALCbVQK66v1P6x1fddvrwriBXTvnFO2FE2taUHJ6smwbArlhr01WE85JbclcpdgnFfAp/cW12Vfm8soUduIkJbNf4dJF2vz9Qy7NV/o/1GOsVmseRy2+8t9a429ZGIw=",
         "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
       },
-	    {
-        "name": "BOCA VS INDEPENDIENTE DEL VALLE",
-        "uri": "lpFKFOHdqQ4QgX++CLSicFsSwDIcJDN6s1ZX4cxnlsIfsNss9iH6XOCQ6lRZczutYyGPUWFGD1sLsVYfLAzll6ZfOlSdJAJdU/5jTFhe8AvZrsj7/KWG7bvMrpP0RfjvoWHXYOHv0ChZivSSkAxdStAH9GtUAtDGJ4jkizc5wlg=",
-        "icono": "https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png"
-	  }
+	
 
        ]
   },
