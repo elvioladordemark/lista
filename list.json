@@ -1815,8 +1815,17 @@
 {
     "name": "🎥PELICULAS",
     "samples": [
-       
+       {
+              "name": "GARFIEL FUERA DE CASA 2024",
+        "uri": "X8O3w7v+EmARnE7hjWbMAGddmPRIeqctUkMFao0aFZeW3XTqZBVLZag0OFUsuo/I",
+        "icono": "https://i.postimg.cc/RhnrSv5k/fb-img-17146050624148614007850469312261.jpg"   
+            },
           {
+              "name": "MI VILLANO FAVORITO 4",
+        "uri": "/DfTjVfWNt47xctHk/TG1mc/rkVMa2DVU9PuGnTgduQbHb/8chgW62YEwDMYFBVtXqjiMYg03PfFv+AcP90L50zpWJbrBB4ShgTNuuzU8xK2WREmrmxxh3fgjvz+739/kJBs49wVnkfY7AC1gouLN5WJDR8pQYdB6vvaQ4RK8cUMIgHbBxjG54w0o5rmrtbz0G+UhBwhmguLJa+l5FqhoywnXGbJSrrUtCvvjsbFArCH9U0091x+BKbePZCTcav91HDqZlR3m59RziaWg1Rf4C+ia81HNNKZZsQm3jHD+7yV/XlNsgcCxvebXqv76PV1JD1+2RZQRo5OM09BIiLky7urY5pQ82hACWUTPqjbfkGTKexNeb5F2z2E5h0Hq+5f/UirtYCxTcfBnGAmPkYHDkCzr0oElmAD7Tp0HtbbH/u2gBk60rN2273NMl74BPYm",
+        "icono": "https://i.postimg.cc/7ZCf7217/w-Tpz-SDfb-Uu-HPEgqgt5vw-Vt-PHhrb-170x255.jpg"   
+            },
+	    {
               "name": "INTENSAMENTE 2 2024",
         "uri": "+2IJFAkzrdjFF1YU6TXbIctzrl3KsAAreeW6XYDGiaJBsn1tZVRk95OYETznle+F",
         "icono": "https://i.postimg.cc/Dz9HjKhR/intensamente-2.jpg"   
@@ -1831,6 +1840,11 @@
         "uri": "+2IJFAkzrdjFF1YU6TXbIeKA4nU50ca6E9Ye/q5V+4lW1ZpZH4n8pE8aZu8VuY/f5q6dnE3B8ccNe9qTa2lyemOsVmseRy2+8t9a429ZGIw=",
         "icono": "https://i.postimg.cc/rwZ5fBQ7/images.jpg"   
             },
+	     {
+              "name": "CUANDO ACECHA LA MALDAD",
+        "uri": "pgZ9W9X6ephkyVyZMfvGRGiUAFia57RrTjpz+vTAoqp17aI+sgFtUc2PlQ75ehsBTyuJjr6FeySWGD74t+8YzK66gxeu3c58W7Ige7sqUS23L3DmASC6rJyqiBu/zs2fHCtT4LGiLJ5DnQClfg0ZEQ==",
+        "icono": "http://imgfz.com/i/q7Q49TK.jpeg"   
+            },
 	    {
               "name": "FURIOSA DE LA SAGA MAX 2024",
         "uri": "X8O3w7v+EmARnE7hjWbMAGddmPRIeqctUkMFao0aFZc9uLb6IN2cC98rL7WO9utq",
@@ -1840,134 +1854,8 @@
               "name": "COMPLICES DEL ENGAÑO 2024",
         "uri": "+2IJFAkzrdjFF1YU6TXbIeKA4nU50ca6E9Ye/q5V+4lW1ZpZH4n8pE8aZu8VuY/fwd/rLGaM1Kk4bAAjX+dAJGOsVmseRy2+8t9a429ZGIw=",
         "icono": "https://i.postimg.cc/LXdtKGG5/hit-man-977365584-large.jpg"   
-            },
-	      {
-        "name": "CUANDO ACECHA LA MALDAD",
-        "uri": "https://cache017.peliscdn.online/newhls/05cb1273abe29d0abe7ec040b617340f/EP.0.2.v0.1708635188.720.m3u8",
-        "icono": "http://imgfz.com/i/q7Q49TK.jpeg"
-      },
-     {
-        "name": "BLUE BEETLE",
-        "uri": "https://cache003.peliscdn.online/newhls/ff2a97300310a75dd7b7b4083afe3008/EP.0.0.v1.1708606730.720.m3u8",
-        "icono": "https://pelisimg.online/cover/blue-beetle-1692423798.png"
-      },
-	               {
-        "name": "SAW X",
-        "uri": "https://cache006.peliscdn.online/newhls/3150bfd60e2c425d856c30d34ba8bc23/EP.0.0.v2.1708593199.720.m3u8",
-        "icono": "https://pelisimg.online/cover/saw-x-1695976461.png"
-      },
- {
-        "name": "CHUCKY EL MUÑECO DIABOLICO 3",
-        "uri": "https://cache011.peliscdn.online/newhls/e5e1d47877a4fc3d68c5935837454c9a/EP.0.1.v0.1709250278.720.m3u8",
-        "icono": "https://pelisimg.online/cover/chucky-el-muneco-diabolico-3.jpg"
-      },
-	               {
-        "name": "CHUCKY EL MUÑECO DIABOLICO 2",
-        "uri": "https://cache016.peliscdn.online/newhls/ec78dd62cb5baf99d8b771ba6791cda1/EP.0.1.v0.1708825656.720.m3u8",
-        "icono": "https://pelisimg.online/cover/chucky-el-muneco-diabolico-2.jpg"
-      },
-	               {
-        "name": "CHUCKY EL MUÑECO DIABOLICO",
-        "uri": "https://cache001.peliscdn.online/newhls/a40d3a58400fd447b75a033570d05762/EP.0.1.v2.1708792300.720.m3u8",
-        "icono": "https://pelisimg.online/cover/chucky-el-muneco-diabolico.jpg"
-      },
-	            {
-        "name": "LA MALDICION DE CHUCKY",
-        "uri": "https://cache017.peliscdn.online/newhls/c42e5f3fe5118e99c668affc3ff0494e/EP.0.1.v0.1709293665.720.m3u8",
-        "icono": "https://pelisimg.online/cover/la-maldicion-de-chucky.jpg"
-      },
-      {
-        "name": "RAPIDOS Y FURIOSOS X",
-        "uri": "https://cache015.peliscdn.online/newhls/977484987f7a2afde9715849bd869ed0/EP.0.1.v0.1709673914.720.m3u8",
-        "icono": "https://pelisimg.online/cover/fast-x-2-1684533003.jpg"
-      },
-	           {
-        "name": "RAPIDOS Y FURIOSOS 8",
-        "uri": "https://cache020.peliscdn.online/newhls/723518c4c9ea8c50f02b46f620508312/EP.0.1.v0.1708687973.720.m3u8",
-        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-8.jpg"
-      },
-	           {
-        "name": "RAPIDOS Y FURIOSOS 7",
-        "uri": "https://cache009.peliscdn.online/newhls/f3bd5676e5f1c69d6c960375f952feb1/EP.0.1.v1.1708701110.m3u8",
-        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-7.jpg"
-      },
-	           {
-        "name": "RAPIDOS Y FURIOSOS 6",
-        "uri": "https://cache013.peliscdn.online/newhls/0387473d12fb13d6e8e0dfbbe455aee7/EP.0.1.v1.1708720581.720.m3u8",
-        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-6.jpg"
-      },
-	            {
-        "name": "RAPIDOS Y FURIOSOS 5",
-        "uri": "https://cache002.peliscdn.online/newhls/7db36887441993e78364479c8f25374e/EP.0.1.v2.1708700450.720.m3u8",
-        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-5in-control.jpg"
-      },
-	            {
-        "name": "RAPIDOS Y FURIOSOS 4",
-        "uri": "https://cache007.peliscdn.online/newhls/ce7122d449910f8a50f293e84f6dd7bd/EP.0.1.v1.1708710056.720.m3u8",
-        "icono": "https://pelisimg.online/cover/rapidos-y-furiosos-4.jpg"
-      },
-      
-      {
-        "name": "RAPIDOS Y FURIOSOS RETO TOKIO",
-        "uri": "https://cache004.peliscdn.online/newhls/4d5e743392ece3f4a1322bcceaac9790/EP.0.1.v0.1708685634.720.m3u8",
-        "icono": "https://pelisimg.online/cover/rapido-y-furioso-reto-tokio.jpg"
-      },
-	
-      {
-        "name": "AGENTE STONE",
-        "uri": "https://cache016.peliscdn.online/newhls/c369ee462e750fe42c54f4d391c9573b/EP.0.1.v1.1708903301.720.m3u8",
-        "icono": "https://pelisimg.online/cover/agente-stone-1691821027.png"
-      },
-		         {
-        "name": "UN SUEÑO POSIBLE",
-        "uri": "https://cache017.peliscdn.online/newhls/e610900dc0fdecbac30c782cfb0ca3f6/EP.0.1.v0.1708735821.720.m3u8",
-        "icono": "https://pelisimg.online/cover/un-sueno-posible.jpg"
-      },
-	     {
-        "name": "EL REY MONO",
-        "uri": "https://cache009.peliscdn.online/newhls/1c73ea851515ee2f6b2fd3c267b24fe2/EP.0.1.v2.1709033188.1080.m3u8",
-        "icono": "https://pelisimg.online/cover/el-rey-mono-1692434974.png"
-      },
-	     {
-        "name": "LA NOCHE DEL DEMONIO: LA PUERTA ROJA",
-        "uri": "https://cache010.peliscdn.online/newhls/8257db0707d255537d202943ab7497a2/EP.0.1.v2.1708724290.720.m3u8",
-        "icono": "https://i.ibb.co/3zxVhR7/v-R2qo6f-Asr-Iyh-J3cbe-Vdv8-Yqw-Wk.png"
-      },
-	     {
-        "name": "MEGALODON 2023",
-        "uri": "https://cache011.peliscdn.online/newhls/dfa661663a68f40a05d15e13df45fa0f/EP.0.1.v4.1708688299.1080.m3u8",
-        "icono": "https://pelisimg.online/cover/megalodon-2-el-gran-abismo-1691205314.png"
-      },
-	     {
-        "name": "HABLAME",
-        "uri": "https://cache010.peliscdn.online/newhls/2f2601249c1d9e727ab7a2c0905e0eb9/EP.0.0.v3.1708613688.1080.m3u8",
-        "icono": "https://pelisimg.online/cover/hablame-1691750975.png"
-      },
-	    {
-        "name": "SCREAM 6",
-        "uri": "https://cache005.peliscdn.online/newhls/6199c61ff303317754546068dbf1a670/EP.0.1.v6.1708683307.720.m3u8",
-        "icono": "https://pelisimg.online/cover/scream-vi-2-1678406167.jpg"
-      }, 
-       {
-        "name": "EFECTO MARIPOSA",
-        "uri": "https://cache016.peliscdn.online/newhls/2fdc8c1647d6b1f5d7d2c80a4b3f517b/EP.0.1.v0.1708718995.720.m3u8",
-        "icono": "https://pelisimg.online/cover/el-efecto-mariposa.jpg"
-      },
-	      {
-        "name": "SPIDERMAN-CRUZANDO EL MULTIVERSO",
-        "uri": "https://cache014.peliscdn.online/newhls/6e4881625492f54b80abc121174a95f0/EP.0.1.v1.1708723627.720.m3u8",
-        "icono": "https://pelisimg.online/cover/spider-man-across-the-spider-se-2-1685731801.jpg"
-      },
-	      {
-        "name": "AFTER PARA SIEMPRE",
-        "uri": "https://cache013.peliscdn.online/newhls/2549498c51b7fb0afeb4c91cd943d655/EP.0.0.v1.1708622478.720.m3u8",
-        "icono": "https://pelisimg.online/cover/after-para-siempre-1695013132.png"
-      },
-	           {
-              "name": "BACK TO BLACK 2024",
-        "uri": "+2IJFAkzrdjFF1YU6TXbIeKA4nU50ca6E9Ye/q5V+4lW1ZpZH4n8pE8aZu8VuY/f7pxFjMaVAQ68XpLpT0OxNmOsVmseRy2+8t9a429ZGIw=",
-        "icono": "https://i.postimg.cc/rmbDW4CH/images-4.jpg"   
             }
+	      
     ]
     }
 
