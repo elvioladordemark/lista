@@ -5,6 +5,11 @@
     "name": "⚽JUEGOS OLIMPICOS PARIS 2024",
     "samples": [
           {
+      "name": "LA 1 ESPAÑA",
+        "uri": "2i0GplqtgWuUYo5CNQwYwK9bOqVv9MspGeeO2fxMK/bdhlwyrltAc4OBts12daItQSuo0XtF/bOTB8QT9cGryw==",
+        "icono": "https://i.postimg.cc/KYdPmq7N/descarga-1.jpg"
+      },
+	    {
         "name": "CLARO SPORTS 1",
         "uri": "Vc21gihQnNEHgxw/n1fhAs1UOUT4d0ArgDI5vDfE8NzVvMbnvOMIPhIKQb+/ByBxolJBaBw5/lqeqE8zjdU33qNufSD2/Hcm298DjPEdCrp/cDbEq6v653sC/VJZs5iYBGqxCUlnzDoYBtclbYrschT2jhF4bbxGwLuNv6jaKzcleEsSC4XuKz2on4tR3AlILHpYg6SspGLtSII9DVsaIoVyYaMU/IBAegzzbZfV0dv+hLUXe1nvFBKsayRbgBTe",
         "icono": "https://i.postimg.cc/c1KVC6LM/cs01-lat-135001-768x432.png"
@@ -14,11 +19,7 @@
         "uri": "QNm2ocgcxsRVftRx7szHKlw1e05t8iZnwQEurL2WwKfNdRmlZb2mdRe9sqJ2EQ9qoIdNEpoFE6tmPxACr+1815n1EDpHemNkAY+05J4pvdxmUCytJPDpQHxgRlYDhb5BZANTCjVSYiaFtDVNMAR3l0MOSDpbbea7UeOc+ge5X4PYr8puXfokTsRU3NWeypK8qm/6yivrQfjhYM8/EQZwGtVBcAhHlvQfxdNL6l+StgzSOoGtzKieSAMBUJvAmCZ+iIYm7auceDR/+U7pqffWsYd3xE2DEu3QHj9yxwgTRxySM0aSSl2Kxr2owWPgUJgD",
         "icono": "https://i.postimg.cc/c1KVC6LM/cs01-lat-135001-768x432.png"
       },
-	     {
-        "name": "TELEMUNDO DEPORTES",
-        "uri": "V/nU3MF8p0L7aeCdLHG0BBGHL605TUD33OgLnhXOfJ30VokAEocwldBNx9QqCxKgXPxLXoP7YjULsn2J4+1a+EQZjYMcWuLKYRZFtICPfL4LxyV8H7pyEMF7eDVX/JRD",
-        "icono": "https://i.postimg.cc/fb3tRH3c/descarga.jpg"
-      },
+	
 	    {
         "name": "FLOW EVENTOS 1",
         "uri": "E+GzAjbNJgi9Ivi43A/FwMe1EglxSWsOJyAPj8IgvNSMM9Mp7enCDv0QfGtCUCgskTp5xBVeBgRJB9t7IIwG67fNU7p+pnxavM16Ak+3l/w=",
@@ -85,30 +86,7 @@
                 "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
 	 }
 
-       ]
-  },
-	
- 
-{
-    "name": "⚽EURO COPAS ESPAÑA",
-    "samples": [
-     {
-                "name": "ESPN 2 SUDAMERICA",
-                "uri": "7LyOKMpC5mOEfgcCkCQxBGt6ea675qHRdeg0AV9nT3o4vRhFDmSFIv+gCGe5A02we6yIl/78H2L9yfzJq1zsFgyDyHlAkSb/FoCUCoQ63HJjrFZrHkctvvLfWuNvWRiM",
-                "drm_scheme": "clearkey",
-                "drm_license_uri": "t+DgnUguJFubuNf5+yhRPw5ua9XaXQ5pClR0kDtXITTfrGUsEVYDazis16bK1dJjtJiQcHLtB+/OqjOAhfL02P5cMrR7iupdXJLlrq02ZdsbV5JV+48v1VFsXbpgIGiUH+WTGzvZ2A63BEEqGqN/fr37ITPrweBsaZZNKG83gmKKj6WZnAYhNBNGQ/Ovrrma",
-                "icono": "https://static.flow.com.ar/images/8457/CH_LOGO/60/40/0/0/29410352075256.png"
-            },
-       {
-      "name": "LA 1 ESPAÑA",
-        "uri": "2i0GplqtgWuUYo5CNQwYwK9bOqVv9MspGeeO2fxMK/bdhlwyrltAc4OBts12daItQSuo0XtF/bOTB8QT9cGryw==",
-        "icono": "https://i.postimg.cc/KYdPmq7N/descarga-1.jpg"
-      },
-        {
-      "name": "LA 2 ESPAÑA",
-        "uri": "OnoNlpRwi8vCvdzDzvkKJBaXIRTotqs3KKo3wILm84DeKeunoMH/FZqlgznufI4qjRW2dKl39cIQvYOlkqVrNBwrU+CxoiyeQ50ApX4NGRE=",
-        "icono": "https://i.postimg.cc/SQZFS3tq/descarga-2.jpg"
-      }
+  
   
        ]
   },
@@ -179,27 +157,8 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "t+DgnUguJFubuNf5+yhRPw5ua9XaXQ5pClR0kDtXITTfrGUsEVYDazis16bK1dJjtJiQcHLtB+/OqjOAhfL02I+asTD3GvjlqZvGmfqOccVInrMH4OTuzrhxyedtIitkOfPyL3rfOQcSL0F9sLS7cOVKve4/trjkK65jZSfVsF+CsJkyZ56BYrjMX3gQhaKK",
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg"
-      },
-   {
-        "name": "ESPN EVENTOS",
-        "uri": "7KVXebWkst+wTeQtG6zhl7v6zcrg8Fz+jxrv65RBOO26LHF+eJ2NkwfsF7VaBCTMEmB5LZQVjqAIWwiwm5RJUJilj5S36YOK36x56SAspipDa/q4VsNCK+3T9+fa8qm+6/SvhX/SW7DNVccPROMgXNZLrF6w+wzG22iA8Lxgu62qHMFHpQEkeCObktdRkUaY",
-        "icono": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
-      },
-      {
-        "name": "ESPN MEXICO",
-        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLZmvuW1ySo4C5VDkbxBzh/F0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
-      },
-	      {
-        "name": "ESPN 2 MEXICO",
-        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLYSoxS98UQxvb0+6oCtP2Hk0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhowMUvHCdoTlP_Dm6UGp3w2xE6uGd0_lst7Xo8Tz64IJ9g3mcyCnZhVU3YJi7wPwXvd0QgmFX4d-6AOhiUiHNnO4I75hP2XJDYF5nwyLIrDvtYJ_OTzs26Ud6i2FmmFtPCp9OMvL2EKLjhgBhjI_8rYWNWbFYTeVzHXMeJguYeywgoN2unTqpCHJCp/s1600/espn2-mexico.png"
-      },
-	      {
-        "name": "ESPN 3 MEXICO",
-        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLZn8vtij3PuQ5GS747/HvTd0Af0a1QC0MYniOSLNznCWA==",
-        "icono": "https://onlinefutbollibre.com/wp-content/uploads/2023/10/ESPN-3-Mexico.webp"
       }
+  
            ]
   },
 
@@ -239,25 +198,8 @@
         "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLaSwPeShWXyXPEzgJl1cyeq0Af0a1QC0MYniOSLNznCWA==",
       
         "icono": "https://play-lh.googleusercontent.com/uMDC_ZCZXk4i6YfmdiiPfWRBzYKwdpk9pP2gDmg6qkOWBqodlLBdIYPTJTbX8ZxyTA"
-      },
-      {
-        "name": "FOX SPORTS 1 MEXICO",
-        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLbuh+9qgVR9Bg1UaLbyO0dftj0VhoFjG61dLDlAvv98BA==",
-  
-        "icono": "https://yt3.googleusercontent.com/saqCezE3-cZgt4VCDs3sAcsNbRWK4xAIFHDOKx1_wgvQ-bDL-GNByw8OzIBIhLvgB1YvtdhHMD0=s900-c-k-c0x00ffffff-no-rj"
-      },
-          {
-        "name": "FOX SPORTS 2 MEXICO",
-        "uri": "shpJObvjYYz151II4ueYKzsIp/x33uoGdzO0xrCddL3mwXYdTuj8ol7ZQhv/OxF8MLD1lSc1S72157x7Hl1ppg==",
-  
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png"
-      },
-	        {
-        "name": "FOX SPORTS 3 MEXICO",
-        "uri": "shpJObvjYYz151II4ueYKzsIp/x33uoGdzO0xrCddL2JSkPhayoZYU/9+pt6S7YbLG03V4GqrG3o+28vpCk0FA==",
-  
-        "icono": "https://cdn.mitvstatic.com/channels/mx_fox-sports-3_m.png"
       }
+      
          ]
   },
 
@@ -485,23 +427,7 @@
         "icono": "http://imgfz.com/i/0pKjWM6.jpeg"
       }
      
-    ]
-  },
-
-{
-    "name": "🎥PELICULAS",
-    "samples": [
-     {
-              "name": "MI VILLANO FAVORITO 4",
-        "uri": "CzAAOkDzg3m7xjJSOTVm89UC3DtS8w7O2fD9LtehaHMyucnUYH8srV9hCaSJo2Ohmlx84AgWwMw9iBvdr1V68Co4EsnNqm7miQx/bcGPrp1NXOjPgbbk8JvJX5OHVrQf",
-        "icono": "https://i.postimg.cc/FK5p6MDL/mi-villano-favorito-4.jpg"   
-            },
-     
-	    {
-              "name": "INTENSAMENTE 2",
-        "uri": "fhREvSH62oxATZwvVbQLp/K7PCsVmURU3kPKpDmPP+jvbdez4kf/ARJ40sboQ5OvJQilDIaMLxBXqN72LYWn2cljIJNLjW4h3wgKqz2r55HAC9HX0ukUzL3dT+EpKGibaabTRNsH4w/5sl/ztWWUoJ8Ok55PNhVnjyFuuT52uVOuJfowsJG2Cd98BwoBYfA6na23C0SDR2ngyMtM2YDz1EGUmYACfjXwGvGoogh0KZ90fHVdvqQd+a10LDmE1qmsiphLUn09N0pleuB1VMNt8YkOt9ISvgW9pc+xXAXev1rp/KtbPuUCXhqLIhOo+5G5L1Katu+7xxrLzkzznPmxwA==",
-        "icono": "https://i.postimg.cc/Dz9HjKhR/intensamente-2.jpg"   
-            }
+    
      
 	 ]
   },		 
@@ -1883,6 +1809,18 @@
         "uri": "Gi24l2GIyBM1JAjPoJEVfi/A85Rz9jpAy+6Li4W8qtOMfLp0Jdph3u/t/6gYW+v6/7GYV0cAf79aZqh6xAyPZ8BBzs2KvABhNaAsAt6S9sU=",
         "icono": "https://i.ibb.co/3kwD39S/descarga-4.jpg"
        }
+    ]
+  },
+
+{
+    "name": "🎥PELICULAS",
+    "samples": [
+     
+          {
+              "name": "INTENSAMENTE 2",
+        "uri": "+2IJFAkzrdjFF1YU6TXbIctzrl3KsAAreeW6XYDGiaJBsn1tZVRk95OYETznle+F",
+        "icono": "https://i.postimg.cc/Dz9HjKhR/intensamente-2.jpg"   
+            }
     ]
     }
 
