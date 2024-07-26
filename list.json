@@ -1815,11 +1815,16 @@
 {
     "name": "🎥PELICULAS",
     "samples": [
-     
+       
           {
               "name": "INTENSAMENTE 2 2024",
         "uri": "+2IJFAkzrdjFF1YU6TXbIctzrl3KsAAreeW6XYDGiaJBsn1tZVRk95OYETznle+F",
         "icono": "https://i.postimg.cc/Dz9HjKhR/intensamente-2.jpg"   
+            },
+	   {
+              "name": "BUSCANDO A COQUE 2024",
+        "uri": "+2IJFAkzrdjFF1YU6TXbIeKA4nU50ca6E9Ye/q5V+4lW1ZpZH4n8pE8aZu8VuY/fMT66mqr/rl9XqowvJYCWH2OsVmseRy2+8t9a429ZGIw=",
+        "icono": "https://i.postimg.cc/W1FXkRLp/Buscando-a-Coque-628311704-large.jpg"   
             },
 	    {
               "name": "UN ASUNTO FAMILIAR 2024",
@@ -1827,9 +1832,24 @@
         "icono": "https://i.postimg.cc/rwZ5fBQ7/images.jpg"   
             },
 	    {
-              "name": "OBSERVADOS 2024",
-        "uri": "+2IJFAkzrdjFF1YU6TXbIeKA4nU50ca6E9Ye/q5V+4lW1ZpZH4n8pE8aZu8VuY/f+4wnGEeCaanArZU/k5PwvWOsVmseRy2+8t9a429ZGIw=",
-        "icono": "https://i.postimg.cc/KYqkGBdV/images-1.jpg"   
+              "name": "FURIOSA DE LA SAGA MAX 2024",
+        "uri": "X8O3w7v+EmARnE7hjWbMAGddmPRIeqctUkMFao0aFZc9uLb6IN2cC98rL7WO9utq",
+        "icono": "https://i.postimg.cc/prXnRkdg/images-2.jpg"   
+            },
+	      {
+              "name": "COMPLICES DEL ENGAÑO 2024",
+        "uri": "+2IJFAkzrdjFF1YU6TXbIeKA4nU50ca6E9Ye/q5V+4lW1ZpZH4n8pE8aZu8VuY/fwd/rLGaM1Kk4bAAjX+dAJGOsVmseRy2+8t9a429ZGIw=",
+        "icono": "https://i.postimg.cc/LXdtKGG5/hit-man-977365584-large.jpg"   
+            },
+	        {
+              "name": "EN LAS PROFUNDIDADES 2024",
+        "uri": "+2IJFAkzrdjFF1YU6TXbIeKA4nU50ca6E9Ye/q5V+4lW1ZpZH4n8pE8aZu8VuY/fgBXuz9LY2ai8wN4zb3O2aWOsVmseRy2+8t9a429ZGIw=",
+        "icono": "https://i.postimg.cc/bwSJ1rFD/images-3.jpg"   
+            },
+	           {
+              "name": "BACK TO BLACK 2024",
+        "uri": "+2IJFAkzrdjFF1YU6TXbIeKA4nU50ca6E9Ye/q5V+4lW1ZpZH4n8pE8aZu8VuY/f7pxFjMaVAQ68XpLpT0OxNmOsVmseRy2+8t9a429ZGIw=",
+        "icono": "https://i.postimg.cc/rmbDW4CH/images-4.jpg"   
             }
     ]
     }
