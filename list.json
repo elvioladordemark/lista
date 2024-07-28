@@ -853,7 +853,7 @@
 
       {
         "name": "TELEMUNDO INTERNACIONAL",
-        "uri": "/CJTQs66XRpxhKrDW6miVeH4+D/cN8QGSk0eulwTiL8UoiPV7PTKctIa0kn++2Yo",
+        "uri": "n/kiopr04yR6ZaEn8Lb9dh/12vNfmdRrLjA7VWmRfr9u9iCQH4DPOiy9GqUMzNOH/IuHd8RulW4OAJGE5fofig==",
         "icono": "http://imgfz.com/i/cuq0V9R.png"
       },  
      {
@@ -901,36 +901,7 @@
         "uri": "fBmcMtSE5J+5qferkqzUboYsSgp6trNLfDxmTSaWmpB11buq/57EWj5F3C1c8PgsT+PShv9FWLrrzpCYnvPVv9wtWEv7f3/eUnc1SzbHhCU=",
         "icono": "http://imgfz.com/i/dschbKm.jpeg"
       }
-    ]
-    },
-
-
-	   {
-    "name": "PACK MOVISTAR VIP",
-    "samples": [
-
-	{
-          "name": "MOVISTAR ACCION",
-        "uri": "dCVNe93aPiC/okkeM1GWCmRbEPllp04+7YhRlKLNTpjU/rWoK7ffO5bSYQapOkcKu7+x6GTIAqZO8SCbN0L5z35fG4liUoE0uUsR0R82XXY=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHCNI0/hmisWm/PBf5TAqYBupKKnYiw2Pqk/p/8xi/gjQFron1SW12rmCsIqn/psnDWT/3VSoWtFLhPDxQkvE0BdJ+95ZhGjECVidoNWIn+n++Y1CjwSqYn2igu8tSJVApw==",
-        "icono": "https://ibb.co/Rg4Sz7p"
-      },
-       {
-        "name": "MOVISTAR ESTRENO",
-        "uri": "fBmcMtSE5J+5qferkqzUbqF6j7+t+3n0ywnyn5HpDrR11buq/57EWj5F3C1c8PgsT+PShv9FWLrrzpCYnvPVvxto6GGSO8WmEG4u2/MIiW0=",
-        "icono": "http://imgfz.com/i/QaVsWnk.png"
-      },
-     {
-        "name": "MOVISTAR ACCION",
-        "uri": "fBmcMtSE5J+5qferkqzUbuJ9dF8BCMu/BPptRqMd3Qd11buq/57EWj5F3C1c8PgsT+PShv9FWLrrzpCYnvPVv67YEm8N+NSamEmC7S7okC4=",
-        "icono": "https://ibb.co/Rg4Sz7p"
-      },
-     {
-        "name": "MOVISTAR COMEDIA",
-        "uri": "fBmcMtSE5J+5qferkqzUboYsSgp6trNLfDxmTSaWmpB11buq/57EWj5F3C1c8PgsT+PShv9FWLrrzpCYnvPVv9wtWEv7f3/eUnc1SzbHhCU=",
-        "icono": "http://imgfz.com/i/dschbKm.jpeg"
-      }
+    
     ]
   },
 	   {
@@ -1169,17 +1140,17 @@
         "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7sPeKteaVXWrhljJH5dAGqIX7pmeheWllWcJKGYAcxgCfIO5d"
       },
 
-       {
-      "name": "DRGON BALL GT",
-        "uri": "aNDFouYW8/0Wn9DH27NbIM+ErB5vU7Ca6+d2AAi2mtjq+VDmwF0WqcA/jgLfPQE90MSr46TaThyqStG9Zcvpfg==",
-        "icono": "http://imgfz.com/i/ISdjF5G.png"
-      },
       {
       "name": "DRGON BALL SUPER",
         "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLZJru5gIQFolsCU4n27amOs0Af0a1QC0MYniOSLNznCWA==",
         "icono": "http://imgfz.com/i/36uZ9fb.jpeg"
       },
-	          {
+	{
+      "name": "PABLO ESCOBAR ",
+        "uri": "n/kiopr04yR6ZaEn8Lb9dh/12vNfmdRrLjA7VWmRfr9u9iCQH4DPOiy9GqUMzNOHYjTtVRREA/yIXMffOHysRA==",
+        "icono": "https://i.postimg.cc/MZLWR572/images-12.jpg"
+      },     
+	    {
       "name": "LA ROSA DE GUADALUPE",
         "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLar8rKn+ZrsxryCzGqDbswe0Af0a1QC0MYniOSLNznCWA==",
         "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLj9AeZpyMhq1x_kfFGav_O_QvUQi90AJErsihoygvWmxaEz2y"
