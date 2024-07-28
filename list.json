@@ -191,7 +191,25 @@
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHHjUbUIvHycffz0zMQZXA7HJyHjNmCrvau0HAkJbt6yFcKp5dQkAlj4Sg0i3Vt6wa/n9yOAQHo9ATaKysW8WMV8E37SrvrbrNnKdaCyCCPAA+4daiQ1rCpjLO0wIfAD1Lg==",
         "icono": "https://i.ibb.co/2W84yn1/ar-fox-sports-3-m.png"
       },
-        {
+          {
+        "name": "FOX SPORTS 1 MEXICO",
+        "uri": "n/kiopr04yR6ZaEn8Lb9dh/12vNfmdRrLjA7VWmRfr9u9iCQH4DPOiy9GqUMzNOHqRSDx7b8ob/imc85uN8eVA==",
+      
+        "icono": "https://i.postimg.cc/yN540Zsv/images-10.jpg"
+      },
+	      {
+        "name": "FOX SPORTS 2 MEXICO",
+        "uri": "n/kiopr04yR6ZaEn8Lb9dh/12vNfmdRrLjA7VWmRfr9u9iCQH4DPOiy9GqUMzNOHa3T2ofJjATw05Z7PJ8nbkQ==",
+      
+        "icono": "https://i.postimg.cc/yN540Zsv/images-10.jpg"
+      },
+	        {
+        "name": "FOX SPORTS 3 MEXICO",
+        "uri": "n/kiopr04yR6ZaEn8Lb9dh/12vNfmdRrLjA7VWmRfr9u9iCQH4DPOiy9GqUMzNOHHklVtoM8aXtboHkGPNAh0g==",
+      
+        "icono": "https://i.postimg.cc/yN540Zsv/images-10.jpg"
+      },
+	    {
         "name": "FOX SPORTS PREMIUM",
         "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLZ2eMUZYZOId5R3AWa8WpHP0Af0a1QC0MYniOSLNznCWA==",
       
@@ -260,7 +278,7 @@
   },
 
       {
-    "name": "⚽DEPORTES DIRECTV Y DAZN",
+    "name": "⚽DEPORTES DIRECTV, MOVISTAR Y DAZN",
     "samples": [
        {
         "name": "DIRECTV SPORTS 1",
@@ -278,6 +296,12 @@
         "name": "DIRECTV SPORTS PLUS",
         "uri": "q/WyuVQPZRL/PX9J5hZj/DKyLfJJox5aw4nUPtARSlALBjNqRGlAYRrDT96YDHnaClevNM5oWZsx3K0182Tnqg==",
         "icono": "https://i.postimg.cc/0QP93xRS/Direc-TV-Sports-Plus-fotor-bg-remover-2024072811554.png"
+      },
+	      {
+      
+        "name": "MOVISTAR DEPORTES",
+        "uri": "n/kiopr04yR6ZaEn8Lb9dh/12vNfmdRrLjA7VWmRfr9u9iCQH4DPOiy9GqUMzNOHsrBeTJdwaTG54N06IMUYSQ==",
+        "icono": "https://i.postimg.cc/26YrLY06/images-5.jpg"
       },
       {
         "name": "DAZN 1",
@@ -396,7 +420,12 @@
       {
     "name": "⚽OTROS DEPORTES",
     "samples": [
-          {
+           {
+        "name": "ADRENALINA SPORTS",
+        "uri": "n/kiopr04yR6ZaEn8Lb9dh/12vNfmdRrLjA7VWmRfr9u9iCQH4DPOiy9GqUMzNOHl2uRpWy4G4RotVISZ19TBQ==",
+        "icono": "https://i.postimg.cc/HWc9k7rB/images-6.jpg"
+      },
+	    {
         "name": "CLARO SPORTS",
         "uri": "QNm2ocgcxsRVftRx7szHKlw1e05t8iZnwQEurL2WwKfNdRmlZb2mdRe9sqJ2EQ9qoIdNEpoFE6tmPxACr+1815n1EDpHemNkAY+05J4pvdxmUCytJPDpQHxgRlYDhb5BZANTCjVSYiaFtDVNMAR3l0MOSDpbbea7UeOc+ge5X4PYr8puXfokTsRU3NWeypK8qm/6yivrQfjhYM8/EQZwGtVBcAhHlvQfxdNL6l+StgzSOoGtzKieSAMBUJvAmCZ+iIYm7auceDR/+U7pqffWsYd3xE2DEu3QHj9yxwgTRxySM0aSSl2Kxr2owWPgUJgD",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/30/20220125154916%21Claro_Sports_logo.svg/120px-Claro_Sports_logo.svg.png"
@@ -429,13 +458,9 @@
 	           "drm_scheme": "clearkey",
         "drm_license_uri": "iYWxajoY6X1kF6l5WcW70UetgVmWen9E51k7VjVCbAIbxM/woQ8Doi7jWRKOcRn3kCGagtytT3iGe0jLpFAcHOKNmDwodUuWsKfi4Kue74//hGAYiUKOdJeiAbO3+AYjBQLOScjbNt6/C4dq5a5xhnt1SqWqbGYFPjhPEuAmG2a6blYQLtM5CMD3GLzUlQcFTNH3Lcb+HLlpF35C+N6pVQ==",
         "icono": "https://i.ibb.co/CvhtCWJ/descarga-5.jpg"
-      },
-      
-      {
-        "name": "GOL CARACOL",
-        "uri": "/+EeqftXQwQz+RJpA3un5ZwjvfFF5NgwZxiIKhQngLZYDAd0emBfARYgRWULznnctj0VhoFjG61dLDlAvv98BA==",
-        "icono": "http://imgfz.com/i/0pKjWM6.jpeg"
       }
+      
+     
      
     
      
