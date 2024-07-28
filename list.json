@@ -264,14 +264,20 @@
     "samples": [
        {
         "name": "DIRECTV SPORTS 1",
-        "uri": "n/kiopr04yR6ZaEn8Lb9dmP5FOErI1K3yWK76d1fqhRYcK2yE39eAq/VMKiANUOesiQ1c/Hd5nPRwLwnurLB3LxZuYJ/0GYJWcftbPsolUc=",
-        "icono": "http://imgfz.com/i/DNuzBkP.png"
+        "uri": "n/kiopr04yR6ZaEn8Lb9dh/12vNfmdRrLjA7VWmRfr9u9iCQH4DPOiy9GqUMzNOHNtsywvzUwMZatNmgqd6ZMQ==",
+        "icono": "https://i.postimg.cc/zf85c05P/images.png"
       },
       {
       
         "name": "DIRECTV SPORTS 2",
-        "uri": "n/kiopr04yR6ZaEn8Lb9dmP5FOErI1K3yWK76d1fqhRYcK2yE39eAq/VMKiANUOesiQ1c/Hd5nPRwLwnurLB3DP5f+w4WO71xeklblZ3otY=",
-        "icono": "http://imgfz.com/i/zsUV8wc.png"
+        "uri": "q/WyuVQPZRL/PX9J5hZj/DKyLfJJox5aw4nUPtARSlDYHGO/MmAy0JLdYK9VjQQ8EEsLXRwiAHxDA8FR8u3mug==",
+        "icono": "https://i.postimg.cc/L5MrJsXQ/images-4.jpg"
+      },
+	    {
+      
+        "name": "DIRECTV SPORTS PLUS",
+        "uri": "q/WyuVQPZRL/PX9J5hZj/DKyLfJJox5aw4nUPtARSlALBjNqRGlAYRrDT96YDHnaClevNM5oWZsx3K0182Tnqg==",
+        "icono": "https://i.postimg.cc/0QP93xRS/Direc-TV-Sports-Plus-fotor-bg-remover-2024072811554.png"
       },
       {
         "name": "DAZN 1",
