@@ -1821,7 +1821,7 @@
     "name": "🎥PELICULAS",
     "samples": [
        {
-              "name": "KONFU PANDA 4 2024",
+              "name": "KUNG FU PANDA 4 2024",
         "uri": "X8O3w7v+EmARnE7hjWbMAGddmPRIeqctUkMFao0aFZf9DrxfLDYvl1AZYD6iBe7D",
         "icono": "https://i.postimg.cc/X7vcmSzn/kung-fu-panda-4-159494298-mmed.png"   
             },
@@ -1839,6 +1839,21 @@
               "name": "INTENSAMENTE 2 2024",
         "uri": "+2IJFAkzrdjFF1YU6TXbIctzrl3KsAAreeW6XYDGiaJBsn1tZVRk95OYETznle+F",
         "icono": "https://i.postimg.cc/Dz9HjKhR/intensamente-2.jpg"   
+            },
+	      {
+              "name": "GRANDES ESPIAS 2 2024",
+        "uri": "0TpcD9wOlFNDygcuzqta6MEMT5vRx5rsi8IpcPyhgH3oSwcO7sl/J8pmflUBcgA9Eg3SQvhnX1v1Zyv+acjI8/1vOIB8wlsI8LjwIAuib1XYVoxskK01CKQuoHhAKBCot7WV3qlBv3ZNyzKFn2wHVWwNvAsZfSD7+Q8q/AHVjZLxFZHrzXDMGJQojGwgcexK4BN4pMAfJPYa5WknT42FIPI0tD22y0B45M5KkOMquoZKCgNJ9gQcJkTtfvoB4kCi",
+        "icono": "https://i.postimg.cc/DytqFJzL/50xgta-DR0x-Jk-LSVghd-TGUe-Mo-PHP-170x255.jpg"   
+            },
+	    {
+              "name": "TORNADOS 2024",
+        "uri": "XOWUjG7fU5QxBwsCtMMUosJgArQFasjdH6r3kEyyrJvDgUIGGFoXEc56uHzxM1MDc4h2Xif8O2kplCNNi9MQ0f1vOIB8wlsI8LjwIAuib1Ur+WJOVawHm2mNCf8JjrQf9yC1zmoZxwdQ1GUtL6vC3rOvCTV/p6W3+2Rr3CblXboAlQ0EHn/YOTcx6+ydx1ZXc3W+g6lXDoZ5FXFY9tCLgl7Jj6F5yc9+gXcmrJ6PNNFKCgNJ9gQcJkTtfvoB4kCi",
+        "icono": "https://i.postimg.cc/DytqFJzL/50xgta-DR0x-Jk-LSVghd-TGUe-Mo-PHP-170x255.jpg"   
+            },
+	    {
+              "name": "DEADPOOL VS WOLVERINE 2024",
+        "uri": "0PmlhQ2GVElRQf7EwWLHktexMSIgXt95q8owwjuGhRvoSwcO7sl/J8pmflUBcgA9ug2mswkaREgQuE5A8aMEBv1vOIB8wlsI8LjwIAuib1WuQEeeLzJYUTxNtztEANvH76mzSFXTTNNHMwly3BvlUmY0QEWCc03p2SJsjZOz1s3m+ePqs/aceAL/SYhM4SV6BYzXKVOHkpZaSkHknntV3X8XBomdahzzAzcOpUu00LZKCgNJ9gQcJkTtfvoB4kCi",
+        "icono": "https://i.postimg.cc/3wYJCnd9/Ab-Cq-LVv7r3hts1rs-HKd9uu-Hx-Hwi1-170x255.jpg"   
             },
 	    {
               "name": "GODZILA VS KONG NUEVO REINO 2024",
@@ -1885,6 +1900,11 @@
         "uri": "X8O3w7v+EmARnE7hjWbMAGddmPRIeqctUkMFao0aFZdYdDZ7kbToZoy9XevRCFr5",
         "icono": "https://i.postimg.cc/xT37tssW/images-7.jpg"   
             },
+	      {
+              "name": "LA PISTOLA DESNUDA",
+        "uri": "AJrNbgtX3I86wDhbogDCVlGYt+OhWXu2EBfjaXhNO0yLFmhobJzojrESAexkgqDO/HOAmihujPbUgJv8rjwCUQIQag0n5lUiSXbAUXC8l5ZGIjdy+nH+PhNuTgTtLbw+Mg8FwT7Nh7JivXfElf1h6FxYg5mrPocMVh57LTEIRBSZwOICML/Ee63YGRTN5sb3YbZMKqWRiyIKm8kd84VEMzi3oFHA1uoMoLhSAUNwsLYrdbW7amfm+PVy8toedQULpHIbJ1SxSz605cQxQ0sC5p2N3koMGdAK+8GJWHy8Bbxm39leYBkP5WpJyZJiP+a+",
+        "icono": "https://i.postimg.cc/KYphV2Zq/images-2.jpg"   
+            }
 	    {
               "name": "COMPLICES DEL ENGAÑO 2024",
         "uri": "+2IJFAkzrdjFF1YU6TXbIeKA4nU50ca6E9Ye/q5V+4lW1ZpZH4n8pE8aZu8VuY/fwd/rLGaM1Kk4bAAjX+dAJGOsVmseRy2+8t9a429ZGIw=",
