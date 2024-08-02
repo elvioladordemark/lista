@@ -1356,7 +1356,8 @@
     ]
   },
  {
-    "name": "🇵🇾CANALES DE PARAGUAY",
+    
+        "name": "🇵🇾CANALES DE PARAGUAY",
     "samples": [
    
 	        {
@@ -1393,7 +1394,7 @@
         "name": "PARAVISION",
         "uri": "zlZeeg/ENWzgVMeKl3ZJpXPEpoLYLiWQaT4HlyDdEiVwB50lsbGjoY110KNQTJZTHseM9mD0HF78QC2yWRm5oZE6ecQVXgYESQfbeyCMBuu6KJ5FbI6K5+W9Ds7oh9ycfl8biWJSgTS5SxHRHzZddg==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "v9bV5D74gDV4toJudyToYHIT3Cm30sDxabYOWp+/sIwfhrd2J/Bs7p6o/Ujku2FLm2vdfnwj8oos7gd/qiXgO3uYuvbwP6DVGX19sG7h9wNRAcEGEaw6Bw1YlCPqA2862YUZLIm3CCn/cyLhkKsHkdObD0mK4iEoZQxfkzzX5HAJv/BiKW3Rj/zTx35Xzi5YvgNWRAy5qm7HiqqrUwi90A==",
+        "drm_license_uri": "v9bV5D74gDV4toJudyToYHIT3Cm30sDxabYOWp+/sIx9s18Kcb/79Qb2nUuF8VTlJtp1FMlal1MnReZE2gyVnA==",
         "icono": "https://tv-libre.com/img/paravision.webp"
       },
 	      {
@@ -1412,7 +1413,7 @@
         "name": "TELEFUTURO FLOW 4",
         "uri": "eQIZwW03FaaJzqF0oYbVM/W3fpdZO4AIthdUmgtKVnR/MGcOzM7wCb9+m4T3T2yfsisJ3vH60Gty+RFE+0gsgWVS2FNSlzDd8KjDnxhtz3531FJIt+KHvLu/PA/cCLpr",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "v9bV5D74gDV4toJudyToYHIT3Cm30sDxabYOWp+/sIwfhrd2J/Bs7p6o/Ujku2FLm2vdfnwj8oos7gd/qiXgOwQ6SZxmzfUvH4YHFO5UnqOhZ9RXDKPShlFI8V2mXBEW5pJTuW1hI6/cEXpJEArFOwZmQeQEPfgJ+nDg73RrEkZ9nyVwxq9HpQkB9lAhv9EGo3tvQetJPGF1AzyWOoowKg==",
+        "drm_license_uri": "v9bV5D74gDV4toJudyToYHIT3Cm30sDxabYOWp+/sIw2C1kYedVpN6CdL/tU/kPgJtp1FMlal1MnReZE2gyVnA==",
         "icono": "https://i.ibb.co/NjymhsW/FFFF.jpg"
       },
  
