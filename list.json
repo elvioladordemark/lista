@@ -56,30 +56,14 @@
      ]
   },
 {
-    "name": "⚽TIGO EVENTOS Y 24/7",
+    "name": "⚽TIGO EVENTOS",
     "samples": [
-	   {
-      "name": "EVENTOS",
-        "uri": "++OL0XGplEeDtmGE7P5uG2SFEIvZGydPUkzRXU8aAQYfsNss9iH6XOCQ6lRZczutYyGPUWFGD1sLsVYfLAzll+dZi8nN3+zkUCHGY6juh/obbzymGc45HUPBxhvNLTen2xRYcrNEo58QfQgf9J0eSdAH9GtUAtDGJ4jkizc5wlg=",
-        "icono": "https://i.postimg.cc/DyYWdJ31/images.jpg"
-      },
-           {
-      "name": "TIGO SPORTS 1 EN VIVO",
-        "uri": "pus/AIiYkDJdZSJ1bGuZW5zwFmFjBMC3857T3RfI8q8HbXVmjjHD8C8XXzbd1NnGxePgWowqAd+CrpSPdSV0S4ZymrI4NmpGCs88iT7piVNzhvS4YbalKwvvZtgKAclCTZHkPz7/FULTeVV187Mjo28RmxBgC7hkyzoEYPPWBxlrp7szYVNWKUOvB5rbBtokkQwnCOaf4rsNV3beA6Zqs4Xuyjz9D0jDRL1nSMo9mQ+0zn5jAqh7jXjTXufSSIH9lO/my+gEnf4Pew1DEY98yQ==",
-        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
-      },
-       
-       {
-      "name": "TIGO SPORTS 1 EN VIVO OPCIONAL",
-        "uri": "5ih04trINoY9nalxs2Fkn1h+JBXUsDryF6e0Rn8v4vS3Shde1vLwWzcWK9E5bpLDiIXkUpSANp9b3cMQgV1rEw==",
-        "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
-      },  
- 
+
        {
                 "name": "TIGO SPORTS SOLO EVENTOS 1",
                 "uri": "JR37QgRPtbHFikQ6u0C4Qi+FiZCkKFytDe1FnOWc0y21Kz1chRRZ7j2QLeG1r53ub0Hl7+eeVZ2j7RhhZRG0cDnwLIlZzpiBWS8kETOQS8ERAMWwWraRj72qgsxx6vT3",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "v9bV5D74gDV4toJudyToYHIT3Cm30sDxabYOWp+/sIy1dhLyRX0RCb8UaSbdDvNq",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDKEXcEXKheNCoSBue9cAfayZzZKGadoXOYs3XS9XcQXAdv/zwcudq2AipWOH1+wTNkPQNjZTc+o3wJjESSD9msOWPPYpZnlIPVV8dHPgqpFSGs0n4m9FzjtKhH1EYuqsqA==",
                 "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
             },
 	    
@@ -88,7 +72,7 @@
                 "name": "TIGO SPORTS SOLO EVENTOS 2",
                 "uri": "5YuRrH8HYuN6v8YTnXztzFy9OcUl5M/1mfftcx4NnbyXteoYbyuavT4uiReRXqjhoK5tBelqOOpVhygi7XXC8EbAdNArSouZciDhajG/tYQRAMWwWraRj72qgsxx6vT3",
                 "drm_scheme": "clearkey",
-                "drm_license_uri": "v9bV5D74gDV4toJudyToYHIT3Cm30sDxabYOWp+/sIyI3Bv1AzbFyxsVRL8477lt",
+                "drm_license_uri": "8rXb2iNFgpJw7XbpinQMDI+ntws9dC5xyh1enKiP79cxBizd9yL7GvXhEHIYsQWKde3879daJOX2KwV5R4Hces13Zv2FSAd9i1FgpysCn2usvJLVFnwEYXSF699T6LfUFNWTgKA03IA8FS3g7ImXzg==",
                 "icono": "https://i.postimg.cc/mrD5C6S3/descarga.png"
 	 }
 
